@@ -1,0 +1,4700 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2016-11-12 18:02+0500\n"
+"PO-Revision-Date: 2016-11-12 18:02+0500\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"X-Generator: Eazy Po 0.9.5.3\n"
+
+#: customPostType.php:404 customPostType.php:405 customPostType.php:499
+#: customPostType.php:500 customPostType.php:501 customPostType.php:627
+#: panel/options-init.php:92 panel/options-init.php:94
+#: panel/options-init.php:116 panel/options-init.php:118
+#, php-format
+msgid "%s"
+msgstr ""
+
+#: customPostType.php:406
+msgid "Add New"
+msgstr ""
+
+#: customPostType.php:407 customPostType.php:506
+#, php-format
+msgid "Add New %s"
+msgstr ""
+
+#: customPostType.php:408 customPostType.php:503
+#, php-format
+msgid "Edit %s"
+msgstr ""
+
+#: customPostType.php:409
+#: panel/redux-framework/inc/fields/slides/field_slides.php:73
+#: panel/redux-framework/inc/fields/slides/field_slides.php:174
+#, php-format
+msgid "New %s"
+msgstr ""
+
+#: customPostType.php:410 customPostType.php:504
+#, php-format
+msgid "View %s"
+msgstr ""
+
+#: customPostType.php:411 customPostType.php:510
+#, php-format
+msgid "Search %s"
+msgstr ""
+
+#: customPostType.php:412 customPostType.php:515
+#, php-format
+msgid "No %s found"
+msgstr ""
+
+#: customPostType.php:413
+#, php-format
+msgid "No %s found in Trash"
+msgstr ""
+
+#: customPostType.php:414 customPostType.php:509
+#, php-format
+msgid "Parent %s:"
+msgstr ""
+
+#: customPostType.php:502
+#, php-format
+msgid "All %s"
+msgstr ""
+
+#: customPostType.php:505
+#, php-format
+msgid "Update %s"
+msgstr ""
+
+#: customPostType.php:507
+#, php-format
+msgid "New %s Name"
+msgstr ""
+
+#: customPostType.php:508
+#, php-format
+msgid "Parent %s"
+msgstr ""
+
+#: customPostType.php:511
+#, php-format
+msgid "Popular %s"
+msgstr ""
+
+#: customPostType.php:512
+#, php-format
+msgid "Seperate %s with commas"
+msgstr ""
+
+#: customPostType.php:513
+#, php-format
+msgid "Add or remove %s"
+msgstr ""
+
+#: customPostType.php:514
+#, php-format
+msgid "Choose from most used %s"
+msgstr ""
+
+#: customPostType.php:697
+#, php-format
+msgid "No %s"
+msgstr ""
+
+#: customPostType.php:822
+#, php-format
+msgid "Show all %s"
+msgstr ""
+
+#: customPostType.php:1032 customPostType.php:1035 customPostType.php:1037
+#, php-format
+msgid "%s updated."
+msgstr ""
+
+#: customPostType.php:1033
+msgid "Custom field updated."
+msgstr ""
+
+#: customPostType.php:1034
+msgid "Custom field deleted."
+msgstr ""
+
+#: customPostType.php:1036
+#, php-format
+msgid "%2$s restored to revision from %1$s"
+msgstr ""
+
+#: customPostType.php:1038
+#, php-format
+msgid "%s saved."
+msgstr ""
+
+#: customPostType.php:1039
+#, php-format
+msgid "%s submitted."
+msgstr ""
+
+#: customPostType.php:1041
+#, php-format
+msgid "%2$s scheduled for: <strong>%1$s</strong>."
+msgstr ""
+
+#: customPostType.php:1041
+msgid "M j, Y @ G:i"
+msgstr ""
+
+#: customPostType.php:1043
+#, php-format
+msgid "%s draft updated."
+msgstr ""
+
+#: customPostType.php:1063 customPostType.php:1064 customPostType.php:1065
+#: customPostType.php:1066 customPostType.php:1067
+#, php-format
+#| msgid "%s: %s"
+msgid "%s "
+msgid_plural "%s "
+msgstr[0] ""
+msgstr[1] ""
+
+#: unload.php:43 metaboxs/un_order.php:54
+msgid "Service"
+msgstr ""
+
+#: unload.php:44
+msgid "Services"
+msgstr ""
+
+#: unload.php:50
+msgid "Project"
+msgstr ""
+
+#: unload.php:51
+msgid "Projects"
+msgstr ""
+
+#: unload.php:58
+msgid "Package"
+msgstr ""
+
+#: unload.php:59
+msgid "Packages"
+msgstr ""
+
+#: unload.php:66
+msgid "Event"
+msgstr ""
+
+#: unload.php:67
+msgid "Events"
+msgstr ""
+
+#: unload.php:73
+msgid "Testimonial"
+msgstr ""
+
+#: unload.php:74
+msgid "Testimonials"
+msgstr ""
+
+#: unload.php:80
+msgid "Member"
+msgstr ""
+
+#: unload.php:81
+msgid "Members"
+msgstr ""
+
+#: unload.php:87
+msgid "Table"
+msgstr ""
+
+#: unload.php:88
+msgid "Tables"
+msgstr ""
+
+#: unload.php:94
+msgid "Region"
+msgstr ""
+
+#: unload.php:95
+msgid "Region's"
+msgstr ""
+
+#: unload.php:102
+#| msgid "order"
+msgid "Order"
+msgstr ""
+
+#: unload.php:103
+msgid "Order's"
+msgstr ""
+
+#: unload.php:129
+msgid "Thumbnail"
+msgstr ""
+
+#: unload.php:130 metaboxs/project2.php:34
+#: panel/redux-framework/inc/fields/slides/field_slides.php:145
+#: panel/redux-framework/inc/fields/slides/field_slides.php:200
+msgid "Title"
+msgstr ""
+
+#: unload.php:131
+msgid "Author"
+msgstr ""
+
+#: unload.php:132
+msgid "Categories"
+msgstr ""
+
+#: unload.php:133
+msgid "Comments"
+msgstr ""
+
+#: unload.php:134 metaboxs/project.php:57
+msgid "Date"
+msgstr ""
+
+#: importer/importer.php:60
+msgid "Manually uploaded files"
+msgstr ""
+
+#: importer/importer.php:65 importer/importer.php:67
+msgid "Downloaded files"
+msgstr ""
+
+#: importer/importer.php:67
+#, php-format
+msgid "The import files for: %s were successfully downloaded!"
+msgstr ""
+
+#: importer/importer.php:69
+msgid "No import files specified!"
+msgstr ""
+
+#: importer/importer.php:88
+#, php-format
+msgid ""
+"Webinane 1-Click Import System has completed its task and the Data import is "
+"complete now. You can verify it here. If you face any problem, you can "
+"contact our support desk for further help. Submit your ticket here to "
+"%1$scontact support team%2$s."
+msgstr ""
+
+#: importer/importer.php:91
+#, php-format
+msgid ""
+"%1$sThe demo import has finished, but there were some import errors.%2$sMore "
+"details about the errors can be found in this %3$s%5$slog file%6$s%4$s%7$s"
+msgstr ""
+
+#: importer/importer.php:111
+msgid "Max execution time after content import = "
+msgstr ""
+
+#: importer/importer.php:111
+msgid "Importing content"
+msgstr ""
+
+#: importer/importer.php:134
+msgid "Completed AJAX call number: "
+msgstr ""
+
+#: importer/inc/class-helpers.php:66
+#, php-format
+msgid ""
+"\"import_file_url\" or \"local_import_file\" for %s%s%s are not defined!"
+msgstr ""
+
+#: importer/inc/class-helpers.php:164
+#, php-format
+msgid "URL for %s%s%s file is not defined!"
+msgstr ""
+
+#: importer/inc/class-helpers.php:181
+#, php-format
+msgid ""
+"An error occurred while fetching %s%s%s file from the server!%sReason: %s - "
+"%s."
+msgstr ""
+
+#: importer/inc/class-helpers.php:213 importer/inc/class-helpers.php:251
+#, php-format
+msgid ""
+"An error occurred while writing file to your server! Tried to write a file "
+"to: %s%s."
+msgstr ""
+
+#: importer/inc/class-helpers.php:282
+#, php-format
+msgid ""
+"An error occurred while reading a file from your server! Tried reading file "
+"from path: %s%s."
+msgstr ""
+
+#: importer/inc/class-helpers.php:302
+#, php-format
+msgid ""
+"This WordPress page does not have %sdirect%s write file access. This plugin "
+"needs it in order to save the demo import xml file to the upload directory "
+"of your site. You can change this setting with these instructions: %s."
+msgstr ""
+
+#: importer/inc/class-helpers.php:310
+msgid "One Click Demo Import"
+msgstr ""
+
+#: importer/inc/class-helpers.php:311
+msgid "Import Demo Data"
+msgstr ""
+
+#: importer/inc/class-helpers.php:322
+msgid ""
+"An error occurred while retrieving reading/writing permissions to your "
+"server (could not retrieve WP filesystem credentials)!"
+msgstr ""
+
+#: importer/inc/class-helpers.php:329
+msgid "Your WordPress login credentials don't allow to use WP_Filesystem!"
+msgstr ""
+
+#: importer/inc/class-helpers.php:390
+msgid "One Click Demo Import - "
+msgstr ""
+
+#: importer/inc/class-helpers.php:424
+#, php-format
+msgid ""
+"%sYour user role isn't high enough. You don't have permission to import demo "
+"data.%s"
+msgstr ""
+
+#: importer/inc/class-helpers.php:457
+msgid ""
+"Please upload XML file for content import. If you want to import widgets or "
+"customizer settings only, please use Widget Importer & Exporter or the "
+"Customizer Export/Import plugin."
+msgstr ""
+
+#: importer/inc/class-helpers.php:457 importer/inc/class-helpers.php:475
+#: importer/inc/class-helpers.php:490 importer/inc/class-helpers.php:496
+msgid "Upload files"
+msgstr ""
+
+#: importer/inc/class-helpers.php:474
+#, php-format
+msgid "Widget file was not uploaded. Error: %s"
+msgstr ""
+
+#: importer/inc/class-helpers.php:489
+#, php-format
+msgid "Customizer file was not uploaded. Error: %s"
+msgstr ""
+
+#: importer/inc/class-helpers.php:496
+msgid "The import files were successfully uploaded!"
+msgstr ""
+
+#: importer/inc/class-helpers.php:511
+#, php-format
+msgid "Initial max execution time = %s"
+msgstr ""
+
+#: importer/inc/class-helpers.php:514
+#, php-format
+msgid ""
+"Files info:%1$sSite URL = %2$s%1$sData file = %3$s%1$sWidget file = %4$s"
+"%1$sCustomizer file = %5$s"
+msgstr ""
+
+#: importer/inc/class-helpers.php:514
+msgid "not defined!"
+msgstr ""
+
+#: importer/WordPress-Importer/class-wxr-importer.php:126
+msgid "Could not open the file for parsing"
+msgstr ""
+
+#: importer/WordPress-Importer/class-wxr-importer.php:162
+#: importer/WordPress-Importer/class-wxr-importer.php:276
+#: importer/WordPress-Importer/class-wxr-importer.php:347
+#, php-format
+msgid ""
+"This WXR file (version %s) is newer than the importer (version %s) and may "
+"not be supported. Please consider updating."
+msgstr ""
+
+#: importer/WordPress-Importer/class-wxr-importer.php:494
+#: wordpress-importer/wordpress-importer.php:133
+msgid "The file does not exist, please try again."
+msgstr ""
+
+#: importer/WordPress-Importer/class-wxr-importer.php:554
+msgid "Invalid author mapping"
+msgstr ""
+
+#: importer/WordPress-Importer/class-wxr-importer.php:654
+msgid "Cannot import auto-draft posts"
+msgstr ""
+
+#: importer/WordPress-Importer/class-wxr-importer.php:741
+#, php-format
+msgid "Failed to import \"%s\": Invalid post type %s"
+msgstr ""
+
+#: importer/WordPress-Importer/class-wxr-importer.php:749
+#, php-format
+msgid "%s \"%s\" already exists."
+msgstr ""
+
+#: importer/WordPress-Importer/class-wxr-importer.php:825
+#, php-format
+msgid "Skipping attachment \"%s\", fetching attachments disabled"
+msgstr ""
+
+#: importer/WordPress-Importer/class-wxr-importer.php:838
+#, php-format
+msgid "Failed to import \"%s\" (%s)"
+msgstr ""
+
+#: importer/WordPress-Importer/class-wxr-importer.php:868
+#: importer/WordPress-Importer/class-wxr-importer.php:1668
+#, php-format
+msgid "Imported \"%s\" (%s)"
+msgstr ""
+
+#: importer/WordPress-Importer/class-wxr-importer.php:871
+#, php-format
+msgid "Post %d remapped to %d"
+msgstr ""
+
+#: importer/WordPress-Importer/class-wxr-importer.php:1013
+#: wordpress-importer/wordpress-importer.php:952
+msgid "Invalid file type"
+msgstr ""
+
+#: importer/WordPress-Importer/class-wxr-importer.php:1489
+#, php-format
+msgid "Failed to import user \"%s\""
+msgstr ""
+
+#: importer/WordPress-Importer/class-wxr-importer.php:1509
+#, php-format
+msgid "Imported user \"%s\""
+msgstr ""
+
+#: importer/WordPress-Importer/class-wxr-importer.php:1512
+#, php-format
+msgid "User %d remapped to %d"
+msgstr ""
+
+#: importer/WordPress-Importer/class-wxr-importer.php:1646
+#: wordpress-importer/wordpress-importer.php:516
+#: wordpress-importer/wordpress-importer.php:738
+#, php-format
+msgid "Failed to import %s %s"
+msgstr ""
+
+#: importer/WordPress-Importer/class-wxr-importer.php:1671
+#, php-format
+msgid "Term %d remapped to %d"
+msgstr ""
+
+#: importer/WordPress-Importer/class-wxr-importer.php:1719
+#, php-format
+msgid "Remote server returned %1$d %2$s for %3$s"
+msgstr ""
+
+#: importer/WordPress-Importer/class-wxr-importer.php:1729
+#: wordpress-importer/wordpress-importer.php:1009
+msgid "Remote file is incorrect size"
+msgstr ""
+
+#: importer/WordPress-Importer/class-wxr-importer.php:1734
+#: wordpress-importer/wordpress-importer.php:1014
+msgid "Zero size file downloaded"
+msgstr ""
+
+#: importer/WordPress-Importer/class-wxr-importer.php:1740
+#: wordpress-importer/wordpress-importer.php:1020
+#, php-format
+msgid "Remote file is too large, limit is %s"
+msgstr ""
+
+#: importer/WordPress-Importer/class-wxr-importer.php:1761
+#, php-format
+msgid "Running post-processing for post %d"
+msgstr ""
+
+#: importer/WordPress-Importer/class-wxr-importer.php:1773
+#, php-format
+msgid "Could not find the post parent for \"%s\" (post #%d)"
+msgstr ""
+
+#: importer/WordPress-Importer/class-wxr-importer.php:1776
+#, php-format
+msgid "Post %d was imported with parent %d, but could not be found"
+msgstr ""
+
+#: importer/WordPress-Importer/class-wxr-importer.php:1788
+#, php-format
+msgid "Could not find the author for \"%s\" (post #%d)"
+msgstr ""
+
+#: importer/WordPress-Importer/class-wxr-importer.php:1791
+#, php-format
+msgid "Post %d was imported with author \"%s\", but could not be found"
+msgstr ""
+
+#: importer/WordPress-Importer/class-wxr-importer.php:1815
+#, php-format
+msgid "Post %d was marked for post-processing, but none was required."
+msgstr ""
+
+#: importer/WordPress-Importer/class-wxr-importer.php:1825
+#, php-format
+msgid "Could not update \"%s\" (post #%d) with mapped data"
+msgstr ""
+
+#: importer/WordPress-Importer/class-wxr-importer.php:1868
+#, php-format
+msgid "Could not find the menu object for \"%s\" (post #%d)"
+msgstr ""
+
+#: importer/WordPress-Importer/class-wxr-importer.php:1871
+#, php-format
+msgid ""
+"Post %d was imported with object \"%d\" of type \"%s\", but could not be "
+"found"
+msgstr ""
+
+#: importer/WordPress-Importer/class-wxr-importer.php:1889
+#, php-format
+msgid "Could not find the comment parent for comment #%d"
+msgstr ""
+
+#: importer/WordPress-Importer/class-wxr-importer.php:1892
+#, php-format
+msgid "Comment %d was imported with parent %d, but could not be found"
+msgstr ""
+
+#: importer/WordPress-Importer/class-wxr-importer.php:1904
+#, php-format
+msgid "Could not find the author for comment #%d"
+msgstr ""
+
+#: importer/WordPress-Importer/class-wxr-importer.php:1907
+#, php-format
+msgid "Comment %d was imported with author %d, but could not be found"
+msgstr ""
+
+#: importer/WordPress-Importer/class-wxr-importer.php:1922
+#, php-format
+msgid "Could not update comment #%d with mapped data"
+msgstr ""
+
+#: metabox/includes/CMB2.php:122
+msgid "Metabox configuration is required to have an ID parameter"
+msgstr ""
+
+#: metabox/includes/CMB2.php:375
+msgid "Click to toggle"
+msgstr ""
+
+#: metabox/includes/CMB2_Ajax.php:65
+msgid "Please Try Again"
+msgstr ""
+
+#: metabox/includes/CMB2_Ajax.php:155
+msgid "Remove Embed"
+msgstr ""
+
+#: metabox/includes/CMB2_Ajax.php:159
+#, php-format
+msgid "No oEmbed Results Found for %s. View more info at"
+msgstr ""
+
+#: metabox/includes/CMB2_Field.php:1020
+msgid "Add Group"
+msgstr ""
+
+#: metabox/includes/CMB2_Field.php:1021
+msgid "Remove Group"
+msgstr ""
+
+#: metabox/includes/CMB2_Field.php:1043 metabox/includes/CMB2_Field.php:1047
+msgid "None"
+msgstr ""
+
+#: metabox/includes/CMB2_hookup.php:120
+msgid ""
+"Term Metadata is a WordPress > 4.4 feature. Please upgrade your WordPress "
+"install."
+msgstr ""
+
+#: metabox/includes/CMB2_hookup.php:124
+msgid "Term metaboxes configuration requires a 'taxonomies' parameter"
+msgstr ""
+
+#: metabox/includes/CMB2_JS.php:86 metabox/includes/CMB2_JS.php:119
+#: panel/redux-extensions/extensions/social_media/social_media.php:124
+msgid "Clear"
+msgstr ""
+
+#: metabox/includes/CMB2_JS.php:87 panel/redux-framework/framework.php:1920
+msgid "Default"
+msgstr ""
+
+#: metabox/includes/CMB2_JS.php:88
+msgid "Select Color"
+msgstr ""
+
+#: metabox/includes/CMB2_JS.php:89
+msgid "Current Color"
+msgstr ""
+
+#: metabox/includes/CMB2_JS.php:109
+msgctxt "Valid formatDate string for jquery-ui datepicker"
+msgid "mm/dd/yy"
+msgstr ""
+
+#: metabox/includes/CMB2_JS.php:110
+msgid "Sunday, Monday, Tuesday, Wednesday, Thursday, Friday, Saturday"
+msgstr ""
+
+#: metabox/includes/CMB2_JS.php:111
+msgid "Su, Mo, Tu, We, Th, Fr, Sa"
+msgstr ""
+
+#: metabox/includes/CMB2_JS.php:112
+msgid "Sun, Mon, Tue, Wed, Thu, Fri, Sat"
+msgstr ""
+
+#: metabox/includes/CMB2_JS.php:113
+msgid ""
+"January, February, March, April, May, June, July, August, September, "
+"October, November, December"
+msgstr ""
+
+#: metabox/includes/CMB2_JS.php:114
+msgid "Jan, Feb, Mar, Apr, May, Jun, Jul, Aug, Sep, Oct, Nov, Dec"
+msgstr ""
+
+#: metabox/includes/CMB2_JS.php:115
+msgid "Next"
+msgstr ""
+
+#: metabox/includes/CMB2_JS.php:116
+msgid "Prev"
+msgstr ""
+
+#: metabox/includes/CMB2_JS.php:117
+msgid "Today"
+msgstr ""
+
+#: metabox/includes/CMB2_JS.php:118 metabox/includes/CMB2_JS.php:128
+#| msgid "DONE"
+msgid "Done"
+msgstr ""
+
+#: metabox/includes/CMB2_JS.php:122
+msgid "Choose Time"
+msgstr ""
+
+#: metabox/includes/CMB2_JS.php:123 metaboxs/package.php:41
+#: metaboxs/project.php:51
+msgid "Time"
+msgstr ""
+
+#: metabox/includes/CMB2_JS.php:124
+msgid "Hour"
+msgstr ""
+
+#: metabox/includes/CMB2_JS.php:125
+msgid "Minute"
+msgstr ""
+
+#: metabox/includes/CMB2_JS.php:126
+msgid "Second"
+msgstr ""
+
+#: metabox/includes/CMB2_JS.php:127
+msgid "Now"
+msgstr ""
+
+#: metabox/includes/CMB2_JS.php:129
+msgctxt ""
+"Valid formatting string, as per http://trentrichardson.com/examples/"
+"timepicker/"
+msgid "hh:mm TT"
+msgstr ""
+
+#: metabox/includes/CMB2_JS.php:135
+msgid "Use this file"
+msgstr ""
+
+#: metabox/includes/CMB2_JS.php:136
+msgid "Use these files"
+msgstr ""
+
+#: metabox/includes/CMB2_JS.php:137 metabox/includes/CMB2_Types.php:1053
+msgid "Remove Image"
+msgstr ""
+
+#: metabox/includes/CMB2_JS.php:138 metabox/includes/CMB2_Types.php:357
+#: metabox/includes/CMB2_Types.php:1064 metaboxs/pricetable.php:91
+#: metaboxs/team.php:51
+#: panel/redux-framework/inc/fields/background/field_background.php:321
+#: panel/redux-framework/inc/fields/media/field_media.php:205
+#: panel/redux-framework/inc/fields/multi_builder/field_multi_builder.php:87
+#: panel/redux-framework/inc/fields/multi_builder/field_multi_builder.php:97
+#: panel/redux-framework/inc/fields/multi_builder/field_multi_builder.php:104
+#: panel/redux-framework/inc/fields/multi_text/field_multi_text.php:69
+#: panel/redux-framework/inc/fields/multi_text/field_multi_text.php:73
+#: panel/redux-framework/inc/fields/multi_text/field_multi_text.php:76
+#: panel/redux-framework/inc/fields/slides/field_slides.php:133
+#: panel/redux-framework/inc/fields/slides/field_slides.php:190
+msgid "Remove"
+msgstr ""
+
+#: metabox/includes/CMB2_JS.php:139 metabox/includes/CMB2_Types.php:1064
+msgid "File:"
+msgstr ""
+
+#: metabox/includes/CMB2_JS.php:140 metabox/includes/CMB2_Types.php:1064
+msgid "Download"
+msgstr ""
+
+#: metabox/includes/CMB2_JS.php:141
+msgid "Select / Deselect All"
+msgstr ""
+
+#: metabox/includes/CMB2_Types.php:298
+msgid "Add Row"
+msgstr ""
+
+#: metabox/includes/CMB2_Types.php:813 metabox/includes/CMB2_Types.php:860
+msgid "No terms"
+msgstr ""
+
+#: metabox/includes/CMB2_Types.php:924
+msgid "Add or Upload Files"
+msgstr ""
+
+#: metabox/includes/CMB2_Types.php:983
+msgid "Add or Upload File"
+msgstr ""
+
+#: metabox/includes/helper-functions.php:251
+msgid "Save"
+msgstr ""
+
+#: metaboxs/event.php:12
+msgid "Event Detail"
+msgstr ""
+
+#: metaboxs/event.php:29
+msgid "Organiser"
+msgstr ""
+
+#: metaboxs/event.php:30
+msgid "Enter the name of event organiser"
+msgstr ""
+
+#: metaboxs/event.php:35
+msgid "Avatar"
+msgstr ""
+
+#: metaboxs/event.php:36
+msgid "Upload avatar of event organiser"
+msgstr ""
+
+#: metaboxs/event.php:41
+msgid "Contact Number"
+msgstr ""
+
+#: metaboxs/event.php:42
+msgid "Enter the contact number of event organiser"
+msgstr ""
+
+#: metaboxs/event.php:47
+msgid "Address"
+msgstr ""
+
+#: metaboxs/event.php:48
+msgid "Enter the address of event organiser"
+msgstr ""
+
+#: metaboxs/event.php:53
+msgid "Start Date"
+msgstr ""
+
+#: metaboxs/event.php:54
+msgid "Select event start date"
+msgstr ""
+
+#: metaboxs/event.php:60
+msgid "End Date"
+msgstr ""
+
+#: metaboxs/event.php:61
+msgid "Select event end date"
+msgstr ""
+
+#: metaboxs/event.php:67 metaboxs/region.php:69
+msgid "Location"
+msgstr ""
+
+#: metaboxs/event.php:68 metaboxs/region.php:70
+msgid "Enter the location of this event"
+msgstr ""
+
+#: metaboxs/package.php:12 metaboxs/project2.php:29
+msgid "Additional Details"
+msgstr ""
+
+#: metaboxs/package.php:29 metaboxs/team.php:57
+msgid "Select Icon"
+msgstr ""
+
+#: metaboxs/package.php:30
+msgid "Enter icon for this package"
+msgstr ""
+
+#: metaboxs/package.php:35 metaboxs/pricetable.php:30 metaboxs/project.php:39
+#: metaboxs/project2.php:40 metaboxs/region.php:39 metaboxs/service.php:64
+msgid "Sub Title"
+msgstr ""
+
+#: metaboxs/package.php:36 metaboxs/project2.php:41
+#| msgid "Enter the Sub Title"
+msgid "Enter the sub title"
+msgstr ""
+
+#: metaboxs/package.php:42
+msgid "Enter the delivery time example 3 Days"
+msgstr ""
+
+#: metaboxs/package.php:47 metaboxs/project2.php:77
+msgid "Key Features"
+msgstr ""
+
+#: metaboxs/package.php:48 metaboxs/project2.php:78
+msgid "Enter the key features"
+msgstr ""
+
+#: metaboxs/package.php:54 metaboxs/project2.php:84
+msgid "Gallery"
+msgstr ""
+
+#: metaboxs/post.php:12
+msgid "Additional Fields"
+msgstr ""
+
+#: metaboxs/post.php:29
+msgid "Header Section"
+msgstr ""
+
+#: metaboxs/post.php:34
+msgid "Header Title"
+msgstr ""
+
+#: metaboxs/post.php:43
+msgid "Header Sub Title"
+msgstr ""
+
+#: metaboxs/post.php:52
+msgid "Header Background"
+msgstr ""
+
+#: metaboxs/post.php:61
+msgid "Sidebar Layout"
+msgstr ""
+
+#: metaboxs/post.php:74
+msgid "Select Sidebar"
+msgstr ""
+
+#: metaboxs/pricetable.php:12
+msgid "Price Table"
+msgstr ""
+
+#: metaboxs/pricetable.php:31
+#| msgid "Enter the sub title."
+msgid "Enter the Sub Title"
+msgstr ""
+
+#: metaboxs/pricetable.php:36
+msgid "Currency"
+msgstr ""
+
+#: metaboxs/pricetable.php:37
+msgid "Enter the currency symbol"
+msgstr ""
+
+#: metaboxs/pricetable.php:42
+msgid "Price"
+msgstr ""
+
+#: metaboxs/pricetable.php:43
+msgid "Enter the price"
+msgstr ""
+
+#: metaboxs/pricetable.php:48
+msgid "Image"
+msgstr ""
+
+#: metaboxs/pricetable.php:55 metaboxs/pricetable.php:66
+msgid "Add File"
+msgstr ""
+
+#: metaboxs/pricetable.php:59
+#: panel/redux-extensions/extensions/social_media/social_media.php:117
+msgid "Background"
+msgstr ""
+
+#: metaboxs/pricetable.php:70 metaboxs/team.php:62
+msgid "Link"
+msgstr ""
+
+#: metaboxs/pricetable.php:75
+#| msgid "Button Title:"
+msgid "Button Title"
+msgstr ""
+
+#: metaboxs/pricetable.php:76
+msgid "Enter the Button Title"
+msgstr ""
+
+#: metaboxs/pricetable.php:89
+msgid "Additional Features {#}"
+msgstr ""
+
+#: metaboxs/pricetable.php:90 metaboxs/team.php:50
+msgid "Add Another"
+msgstr ""
+
+#: metaboxs/pricetable.php:97
+msgid "Enter Value"
+msgstr ""
+
+#: metaboxs/project.php:15
+msgid "Project Additional Fields"
+msgstr ""
+
+#: metaboxs/project.php:33
+msgid "Content Image"
+msgstr ""
+
+#: metaboxs/project.php:34
+msgid "Upload Project Content Image"
+msgstr ""
+
+#: metaboxs/project.php:40
+msgid "Enter project sub title"
+msgstr ""
+
+#: metaboxs/project.php:45
+msgid "Per Packet"
+msgstr ""
+
+#: metaboxs/project.php:46
+msgid "Enter the amount of per pack"
+msgstr ""
+
+#: metaboxs/project.php:52
+msgid "Enter the delivery time example \"3 Days\""
+msgstr ""
+
+#: metaboxs/project.php:58
+msgid "Select Delivery Date"
+msgstr ""
+
+#: metaboxs/project.php:63
+msgid "Delivered By"
+msgstr ""
+
+#: metaboxs/project.php:64
+msgid "Enter the name of delivering service"
+msgstr ""
+
+#: metaboxs/project.php:69
+msgid "From Address"
+msgstr ""
+
+#: metaboxs/project.php:70
+msgid "Enter the address where package was picked"
+msgstr ""
+
+#: metaboxs/project.php:75
+msgid "To Address"
+msgstr ""
+
+#: metaboxs/project.php:76
+msgid "Enter the address where package was dropped"
+msgstr ""
+
+#: metaboxs/project.php:81
+msgid "Reference Number"
+msgstr ""
+
+#: metaboxs/project.php:82
+msgid "Enter the reference number"
+msgstr ""
+
+#: metaboxs/project2.php:12
+msgid "Project Additional Details"
+msgstr ""
+
+#: metaboxs/project2.php:35
+#| msgid "Enter the Title"
+msgid "Enter the title"
+msgstr ""
+
+#: metaboxs/project2.php:46 metaboxs/project2.php:52 metaboxs/service.php:82
+msgid "Short Note"
+msgstr ""
+
+#: metaboxs/project2.php:47 metaboxs/project2.php:53
+msgid "Enter the short note"
+msgstr ""
+
+#: metaboxs/project2.php:58
+msgid "Bottom Content"
+msgstr ""
+
+#: metaboxs/project2.php:59
+msgid "Enter the bottom content"
+msgstr ""
+
+#: metaboxs/region.php:15
+msgid "Office Detail"
+msgstr ""
+
+#: metaboxs/region.php:33
+#: panel/redux-framework/inc/fields/slides/field_slides.php:149
+#: panel/redux-framework/inc/fields/slides/field_slides.php:204
+msgid "Description"
+msgstr ""
+
+#: metaboxs/region.php:34
+#| msgid "Enter the description."
+msgid "Enter the description"
+msgstr ""
+
+#: metaboxs/region.php:40
+msgid "Enter the sub title for this office"
+msgstr ""
+
+#: metaboxs/region.php:45 metaboxs/service.php:100
+msgid "Office Address"
+msgstr ""
+
+#: metaboxs/region.php:46
+msgid "Enter the office address"
+msgstr ""
+
+#: metaboxs/region.php:51
+msgid "Contact No."
+msgstr ""
+
+#: metaboxs/region.php:52
+msgid ""
+"Enter the contact number. Note: for multiple contact number please use | no "
+"space "
+msgstr ""
+
+#: metaboxs/region.php:57
+msgid "Email"
+msgstr ""
+
+#: metaboxs/region.php:58
+msgid "Enter the email id"
+msgstr ""
+
+#: metaboxs/region.php:63
+msgid "Office Timing"
+msgstr ""
+
+#: metaboxs/region.php:64
+msgid "Enter the Office timing"
+msgstr ""
+
+#: metaboxs/service.php:15
+msgid "Service Additional Fields"
+msgstr ""
+
+#: metaboxs/service.php:33
+msgid "Show All Service List"
+msgstr ""
+
+#: metaboxs/service.php:38
+msgid "List Title"
+msgstr ""
+
+#: metaboxs/service.php:39
+msgid "Enter side list service title"
+msgstr ""
+
+#: metaboxs/service.php:48
+msgid "List Sub Title"
+msgstr ""
+
+#: metaboxs/service.php:49
+msgid "Enter side list service sub title"
+msgstr ""
+
+#: metaboxs/service.php:58
+msgid "Company Name"
+msgstr ""
+
+#: metaboxs/service.php:59
+msgid "Enter your company name"
+msgstr ""
+
+#: metaboxs/service.php:65
+msgid "Enter service sub title"
+msgstr ""
+
+#: metaboxs/service.php:70
+msgid "Service Icon"
+msgstr ""
+
+#: metaboxs/service.php:71
+msgid "Select Service Icon"
+msgstr ""
+
+#: metaboxs/service.php:76
+msgid "Shipping Name"
+msgstr ""
+
+#: metaboxs/service.php:77
+msgid "Enter the shipping name"
+msgstr ""
+
+#: metaboxs/service.php:83
+msgid "Enter short note for this service for users"
+msgstr ""
+
+#: metaboxs/service.php:88
+msgid "Delivery Time"
+msgstr ""
+
+#: metaboxs/service.php:89
+msgid "Enter the shipping delivery time"
+msgstr ""
+
+#: metaboxs/service.php:94
+#| msgid "Email Id"
+msgid "Email ID"
+msgstr ""
+
+#: metaboxs/service.php:95
+msgid "Enter the shipping email id"
+msgstr ""
+
+#: metaboxs/service.php:101
+msgid "Enter your office address"
+msgstr ""
+
+#: metaboxs/service.php:106
+msgid "Satisfied Users"
+msgstr ""
+
+#: metaboxs/service.php:107
+msgid "Enter the number of Satisfied Users, Max Value is 100"
+msgstr ""
+
+#: metaboxs/team.php:12
+msgid "Member Detail"
+msgstr ""
+
+#: metaboxs/team.php:30
+msgid "Show Office Contact"
+msgstr ""
+
+#: metaboxs/team.php:35
+msgid "Designation"
+msgstr ""
+
+#: metaboxs/team.php:36
+msgid "Enter the member designation"
+msgstr ""
+
+#: metaboxs/team.php:49
+msgid "Social Profile {#}"
+msgstr ""
+
+#: metaboxs/un_order.php:12
+msgid "Order Info"
+msgstr ""
+
+#: metaboxs/un_order.php:29
+msgid "Order Status"
+msgstr ""
+
+#: metaboxs/un_order.php:34
+msgid "From Country"
+msgstr ""
+
+#: metaboxs/un_order.php:39
+msgid "From City"
+msgstr ""
+
+#: metaboxs/un_order.php:44
+msgid "To Country"
+msgstr ""
+
+#: metaboxs/un_order.php:49
+msgid "To City"
+msgstr ""
+
+#: metaboxs/un_order.php:59
+msgid "Order Date"
+msgstr ""
+
+#: metaboxs/un_order.php:64
+msgid "Sender Name"
+msgstr ""
+
+#: metaboxs/un_order.php:69
+msgid "Sender Email"
+msgstr ""
+
+#: metaboxs/un_order.php:74
+msgid "Sender Contact"
+msgstr ""
+
+#: metaboxs/un_order.php:79
+msgid "Sender Address"
+msgstr ""
+
+#: metaboxs/un_order.php:84
+msgid "Receiver Name"
+msgstr ""
+
+#: metaboxs/un_order.php:89
+msgid "Receiver Email"
+msgstr ""
+
+#: metaboxs/un_order.php:94
+msgid "Receiver Contact"
+msgstr ""
+
+#: metaboxs/un_order.php:99
+msgid "Receiver Address"
+msgstr ""
+
+#: metaboxs/un_order.php:104
+msgid "Order Note"
+msgstr ""
+
+#: panel/options-init.php:14 panel/options-init.php:18
+msgid "Theme Options"
+msgstr ""
+
+#: panel/redux-extensions/extensions/importer/demos.php:5
+msgid "Main"
+msgstr ""
+
+#: panel/redux-extensions/extensions/importer/extension_importer.php:106
+#: panel/redux-extensions/extensions/importer/extension_importer.php:107
+msgid "Demo Importer"
+msgstr ""
+
+#: panel/redux-extensions/extensions/importer/extension_importer.php:154
+msgid "There is some error to extract Demo File"
+msgstr ""
+
+#: panel/redux-extensions/extensions/importer/extension_importer.php:158
+msgid "Please Enable ZIP Extension in php.ini"
+msgstr ""
+
+#: panel/redux-extensions/extensions/importer/extension_importer.php:166
+msgid "Given URL not present"
+msgstr ""
+
+#: panel/redux-extensions/extensions/importer/importer.php:55
+msgid "view demo"
+msgstr ""
+
+#: panel/redux-extensions/extensions/importer/importer.php:59
+msgid "Import"
+msgstr ""
+
+#: panel/redux-extensions/extensions/importer/importer.php:65
+msgid "Import Demo"
+msgstr ""
+
+#: panel/redux-extensions/extensions/language/field_language.php:41
+msgid "Upload Language File"
+msgstr ""
+
+#: panel/redux-extensions/extensions/language/field_language.php:44
+msgid "Browse"
+msgstr ""
+
+#: panel/redux-extensions/extensions/language/field_language.php:47
+msgid "Start Upload"
+msgstr ""
+
+#: panel/redux-extensions/extensions/language/field_language.php:64
+msgid "Select Language"
+msgstr ""
+
+#: panel/redux-extensions/extensions/language/field_language.php:65
+msgid "Your browser does not support new File API! Please upgrade"
+msgstr ""
+
+#: panel/redux-extensions/extensions/language/field_language.php:66
+msgid "Please Select a .mo file"
+msgstr ""
+
+#: panel/redux-extensions/extensions/language/field_language.php:67
+msgid "Unsupported file type"
+msgstr ""
+
+#: panel/redux-extensions/extensions/language/field_language.php:68
+msgid "Too big file"
+msgstr ""
+
+#: panel/redux-extensions/extensions/language/field_language.php:69
+msgid "Please Select Language File"
+msgstr ""
+
+#: panel/redux-extensions/extensions/language/field_language.php:70
+#: panel/redux-framework/inc/fields/slides/field_slides.php:167
+#: panel/redux-framework/inc/fields/slides/field_slides.php:220
+msgid "Delete"
+msgstr ""
+
+#: panel/redux-extensions/extensions/social_media/social_media.php:104
+msgid "Link URL"
+msgstr ""
+
+#: panel/redux-extensions/extensions/social_media/social_media.php:111
+msgid "Color"
+msgstr ""
+
+#: panel/redux-framework/framework.php:214
+#: panel/redux-framework/framework.php:218
+msgid "Options"
+msgstr ""
+
+#: panel/redux-framework/framework.php:1765
+msgid "Enable"
+msgstr ""
+
+#: panel/redux-framework/framework.php:1770
+msgid "Disable"
+msgstr ""
+
+#: panel/redux-framework/framework.php:1776
+msgid "moving the mouse over"
+msgstr ""
+
+#: panel/redux-framework/framework.php:1778
+msgid "clicking"
+msgstr ""
+
+#: panel/redux-framework/framework.php:1782
+#, php-format
+msgid ""
+"Hints are tooltips that popup when %d the hint icon, offering addition "
+"information about the field in which they appear.  They can be %d d by using "
+"the link below."
+msgstr ""
+
+#: panel/redux-framework/framework.php:1787
+msgid "Hints"
+msgstr ""
+
+#: panel/redux-framework/framework.php:2812
+msgid "Invalid security credential.  Please reload the page and try again."
+msgstr ""
+
+#: panel/redux-framework/framework.php:2821
+msgid "Invalid user capability.  Please reload the page and try again."
+msgstr ""
+
+#: panel/redux-framework/framework.php:2898
+msgid "Your panel has no fields. Nothing to save."
+msgstr ""
+
+#: panel/redux-framework/framework.php:4006
+msgid ""
+"<strong>Redux Framework Notice: </strong>There are references to the Redux "
+"Framework support site in your config's <code>admin_bar_links</code> "
+"argument.  This is sample data.  Please change or remove this data before "
+"shipping your product."
+msgstr ""
+
+#: panel/redux-framework/framework.php:4021
+msgid ""
+"<strong>Redux Framework Notice: </strong>There are references to the Redux "
+"Framework support site in your config's <code>share_icons</code> argument.  "
+"This is sample data.  Please change or remove this data before shipping your "
+"product."
+msgstr ""
+
+#: panel/redux-framework/core/enqueue.php:383
+msgid "You have changes that are not saved. Would you like to save them now?"
+msgstr ""
+
+#: panel/redux-framework/core/enqueue.php:391
+msgid "Are you sure? Resetting will lose all custom values."
+msgstr ""
+
+#: panel/redux-framework/core/enqueue.php:399
+msgid "Are you sure? Resetting will lose all custom values in this section."
+msgstr ""
+
+#: panel/redux-framework/core/enqueue.php:407
+msgid ""
+"Your current options will be replaced with the values of this preset. Would "
+"you like to proceed?"
+msgstr ""
+
+#: panel/redux-framework/core/enqueue.php:414
+msgid "Please Wait"
+msgstr ""
+
+#: panel/redux-framework/core/enqueue.php:425
+msgid "There was an error saving. Here is the result of your action:"
+msgstr ""
+
+#: panel/redux-framework/core/enqueue.php:426
+msgid ""
+"There was a problem with your action. Please try again or reload the page."
+msgstr ""
+
+#: panel/redux-framework/core/panel.php:66
+msgid "Warning- This options panel will not work properly without javascript!"
+msgstr ""
+
+#: panel/redux-framework/core/panel.php:140
+msgid "Settings Imported!"
+msgstr ""
+
+#: panel/redux-framework/core/panel.php:155
+msgid "All Defaults Restored!"
+msgstr ""
+
+#: panel/redux-framework/core/panel.php:169
+msgid "Section Defaults Restored!"
+msgstr ""
+
+#: panel/redux-framework/core/panel.php:183
+msgid "Settings Saved!"
+msgstr ""
+
+#: panel/redux-framework/core/panel.php:203
+msgid "Settings have changed, you should save them!"
+msgstr ""
+
+#: panel/redux-framework/core/panel.php:211
+msgid "error(s) were found!"
+msgstr ""
+
+#: panel/redux-framework/core/panel.php:219
+msgid "warning(s) were found!"
+msgstr ""
+
+#: panel/redux-framework/core/panel.php:308
+msgid ""
+"<strong>Your panel has bundled outdated copies of Redux Framework template "
+"files</strong> &#8211; if you encounter functionality issues this could be "
+"the reason. Ensure you update or remove them."
+msgstr ""
+
+#: panel/redux-framework/inc/class.redux_admin_notices.php:94
+msgid "Dismiss"
+msgstr ""
+
+#: panel/redux-framework/inc/class.redux_cdn.php:74
+msgid ""
+"Please wait a few minutes, then try refreshing the page. Unable to load some "
+"remotely hosted scripts."
+msgstr ""
+
+#: panel/redux-framework/inc/class.redux_cdn.php:76
+#, php-format
+msgid ""
+"If you are developing offline, please download and install the <a href=\"%s"
+"\" target=\"_blank\">Redux Vendor Support</a> plugin/extension to bypass the "
+"our CDN and avoid this warning"
+msgstr ""
+
+#: panel/redux-framework/inc/class.redux_cdn.php:81
+msgid "Redux Framework Warning"
+msgstr ""
+
+#: panel/redux-framework/inc/class.redux_cdn.php:81
+#, php-format
+msgid "%s CDN unavailable.  Some controls may not render properly."
+msgstr ""
+
+#: panel/redux-framework/inc/class.redux_cdn.php:113
+#, php-format
+msgid ""
+"The <a href=\"%s\">Vendor Support plugin</a> (or extension) is either not "
+"installed or not activated and thus, some controls may not render properly.  "
+"Please ensure that it is installed and <a href=\"%s\">activated</a>"
+msgstr ""
+
+#: panel/redux-framework/inc/class.redux_filesystem.php:24
+#: panel/redux-framework/inc/class.redux_filesystem.php:53
+#: panel/redux-framework/inc/class.redux_filesystem.php:257
+msgid "File Permission Issues"
+msgstr ""
+
+#: panel/redux-framework/inc/class.redux_filesystem.php:24
+#, php-format
+msgid ""
+"We were unable to modify required files. Please check your permissions, or "
+"modify your wp-config.php file to contain your FTP login credentials as <a "
+"href=\"%s\" target=\"_blank\">outlined here</a>."
+msgstr ""
+
+#: panel/redux-framework/inc/class.redux_filesystem.php:53
+#: panel/redux-framework/inc/class.redux_filesystem.php:257
+#, php-format
+msgid ""
+"We were unable to modify required files. Please ensure that <code>%1s</code> "
+"has the proper read-write permissions, or modify your wp-config.php file to "
+"contain your FTP login credentials as <a href=\"%2s\" target=\"_blank"
+"\">outlined here</a>."
+msgstr ""
+
+#: panel/redux-framework/inc/class.redux_helpers.php:605
+#, php-format
+msgid ""
+"<code>%s</code> version <strong style=\"color:red\">%s</strong> is out of "
+"date. The core version is %s"
+msgstr ""
+
+#: panel/redux-framework/inc/fields/background/field_background.php:124
+#: panel/redux-framework/inc/fields/color/field_color.php:72
+#: panel/redux-framework/inc/fields/color_gradient/field_color_gradient.php:79
+#: panel/redux-framework/inc/fields/color_gradient/field_color_gradient.php:91
+msgid "Transparent"
+msgstr ""
+
+#: panel/redux-framework/inc/fields/background/field_background.php:141
+msgid "Background Repeat"
+msgstr ""
+
+#: panel/redux-framework/inc/fields/background/field_background.php:157
+msgid "Background Clip"
+msgstr ""
+
+#: panel/redux-framework/inc/fields/background/field_background.php:173
+msgid "Background Origin"
+msgstr ""
+
+#: panel/redux-framework/inc/fields/background/field_background.php:188
+msgid "Background Size"
+msgstr ""
+
+#: panel/redux-framework/inc/fields/background/field_background.php:203
+msgid "Background Attachment"
+msgstr ""
+
+#: panel/redux-framework/inc/fields/background/field_background.php:223
+msgid "Background Position"
+msgstr ""
+
+#: panel/redux-framework/inc/fields/background/field_background.php:277
+#: panel/redux-framework/inc/fields/media/field_media.php:149
+msgid "No media selected"
+msgstr ""
+
+#: panel/redux-framework/inc/fields/background/field_background.php:314
+#: panel/redux-framework/inc/fields/media/field_media.php:198
+#: panel/redux-framework/inc/fields/slides/field_slides.php:126
+#: panel/redux-framework/inc/fields/slides/field_slides.php:188
+msgid "Upload"
+msgstr ""
+
+#: panel/redux-framework/inc/fields/border/field_border.php:125
+#: panel/redux-framework/inc/fields/spacing/field_spacing.php:191
+msgid "All"
+msgstr ""
+
+#: panel/redux-framework/inc/fields/border/field_border.php:138
+#: panel/redux-framework/inc/fields/spacing/field_spacing.php:215
+msgid "Top"
+msgstr ""
+
+#: panel/redux-framework/inc/fields/border/field_border.php:145
+#: panel/redux-framework/inc/fields/spacing/field_spacing.php:222
+msgid "Right"
+msgstr ""
+
+#: panel/redux-framework/inc/fields/border/field_border.php:152
+#: panel/redux-framework/inc/fields/spacing/field_spacing.php:229
+msgid "Bottom"
+msgstr ""
+
+#: panel/redux-framework/inc/fields/border/field_border.php:159
+#: panel/redux-framework/inc/fields/spacing/field_spacing.php:236
+msgid "Left"
+msgstr ""
+
+#: panel/redux-framework/inc/fields/border/field_border.php:174
+msgid "Border style"
+msgstr ""
+
+#: panel/redux-framework/inc/fields/color_gradient/field_color_gradient.php:68
+#| msgid "From"
+msgid "From "
+msgstr ""
+
+#: panel/redux-framework/inc/fields/color_gradient/field_color_gradient.php:82
+#| msgid "To"
+msgid "To "
+msgstr ""
+
+#: panel/redux-framework/inc/fields/dimensions/field_dimensions.php:162
+msgid "Width"
+msgstr ""
+
+#: panel/redux-framework/inc/fields/dimensions/field_dimensions.php:178
+#: panel/redux-framework/inc/fields/typography/field_typography.php:437
+msgid "Height"
+msgstr ""
+
+#: panel/redux-framework/inc/fields/dimensions/field_dimensions.php:189
+#: panel/redux-framework/inc/fields/dimensions/field_dimensions.php:190
+#: panel/redux-framework/inc/fields/spacing/field_spacing.php:245
+#: panel/redux-framework/inc/fields/spacing/field_spacing.php:246
+msgid "Units"
+msgstr ""
+
+#: panel/redux-framework/inc/fields/gallery/field_gallery.php:73
+msgid "Add/Edit Gallery"
+msgstr ""
+
+#: panel/redux-framework/inc/fields/gallery/field_gallery.php:74
+msgid "Clear Gallery"
+msgstr ""
+
+#: panel/redux-framework/inc/fields/link_color/field_link_color.php:88
+msgid "Regular"
+msgstr ""
+
+#: panel/redux-framework/inc/fields/link_color/field_link_color.php:92
+msgid "Hover"
+msgstr ""
+
+#: panel/redux-framework/inc/fields/link_color/field_link_color.php:96
+msgid "Visited"
+msgstr ""
+
+#: panel/redux-framework/inc/fields/link_color/field_link_color.php:100
+msgid "Active"
+msgstr ""
+
+#: panel/redux-framework/inc/fields/multi_builder/field_multi_builder.php:59
+#: panel/redux-framework/inc/fields/multi_text/field_multi_text.php:61
+msgid "Add More"
+msgstr ""
+
+#: panel/redux-framework/inc/fields/password/field_password.php:62
+msgid "Password"
+msgstr ""
+
+#: panel/redux-framework/inc/fields/password/field_password.php:63
+#| msgid "User Name"
+msgid "Username"
+msgstr ""
+
+#: panel/redux-framework/inc/fields/select/field_select.php:83
+#: panel/redux-framework/inc/fields/select_image/field_select_image.php:62
+msgid "Select an item"
+msgstr ""
+
+#: panel/redux-framework/inc/fields/select/field_select.php:134
+#: panel/redux-framework/inc/fields/select_image/field_select_image.php:143
+msgid "No items of this type were found."
+msgstr ""
+
+#: panel/redux-framework/inc/fields/slides/field_slides.php:68
+msgid "Slide"
+msgstr ""
+
+#: panel/redux-framework/inc/fields/slides/field_slides.php:153
+#: panel/redux-framework/inc/fields/slides/field_slides.php:207
+msgid "URL"
+msgstr ""
+
+#: panel/redux-framework/inc/fields/slides/field_slides.php:223
+#, php-format
+msgid "Add %s"
+msgstr ""
+
+#: panel/redux-framework/inc/fields/switch/field_switch.php:42
+#| msgid "on"
+msgid "On"
+msgstr ""
+
+#: panel/redux-framework/inc/fields/switch/field_switch.php:45
+msgid "Off"
+msgstr ""
+
+#: panel/redux-framework/inc/fields/typography/field_typography.php:226
+msgid "Font Family"
+msgstr ""
+
+#: panel/redux-framework/inc/fields/typography/field_typography.php:227
+msgid "Font family"
+msgstr ""
+
+#: panel/redux-framework/inc/fields/typography/field_typography.php:253
+#: panel/redux-framework/inc/fields/typography/field_typography.php:254
+msgid "Backup Font Family"
+msgstr ""
+
+#: panel/redux-framework/inc/fields/typography/field_typography.php:268
+#: panel/redux-framework/inc/fields/typography/field_typography.php:276
+msgid "Font style"
+msgstr ""
+
+#: panel/redux-framework/inc/fields/typography/field_typography.php:269
+msgid "Font Weight &amp; Style"
+msgstr ""
+
+#: panel/redux-framework/inc/fields/typography/field_typography.php:276
+msgid "Style"
+msgstr ""
+
+#: panel/redux-framework/inc/fields/typography/field_typography.php:316
+msgid "Font subsets"
+msgstr ""
+
+#: panel/redux-framework/inc/fields/typography/field_typography.php:318
+msgid "Font Subsets"
+msgstr ""
+
+#: panel/redux-framework/inc/fields/typography/field_typography.php:320
+msgid "Subsets"
+msgstr ""
+
+#: panel/redux-framework/inc/fields/typography/field_typography.php:320
+msgid "Font script"
+msgstr ""
+
+#: panel/redux-framework/inc/fields/typography/field_typography.php:337
+#: panel/redux-framework/inc/fields/typography/field_typography.php:338
+#: panel/redux-framework/inc/fields/typography/field_typography.php:339
+msgid "Text Align"
+msgstr ""
+
+#: panel/redux-framework/inc/fields/typography/field_typography.php:360
+#: panel/redux-framework/inc/fields/typography/field_typography.php:361
+#: panel/redux-framework/inc/fields/typography/field_typography.php:362
+msgid "Text Transform"
+msgstr ""
+
+#: panel/redux-framework/inc/fields/typography/field_typography.php:383
+#: panel/redux-framework/inc/fields/typography/field_typography.php:384
+#: panel/redux-framework/inc/fields/typography/field_typography.php:385
+msgid "Font Variant"
+msgstr ""
+
+#: panel/redux-framework/inc/fields/typography/field_typography.php:403
+#: panel/redux-framework/inc/fields/typography/field_typography.php:404
+#: panel/redux-framework/inc/fields/typography/field_typography.php:405
+msgid "Text Decoration"
+msgstr ""
+
+#: panel/redux-framework/inc/fields/typography/field_typography.php:427
+#: panel/redux-framework/inc/fields/typography/field_typography.php:428
+msgid "Font Size"
+msgstr ""
+
+#: panel/redux-framework/inc/fields/typography/field_typography.php:428
+msgid "Size"
+msgstr ""
+
+#: panel/redux-framework/inc/fields/typography/field_typography.php:436
+#: panel/redux-framework/inc/fields/typography/field_typography.php:437
+msgid "Line Height"
+msgstr ""
+
+#: panel/redux-framework/inc/fields/typography/field_typography.php:445
+#: panel/redux-framework/inc/fields/typography/field_typography.php:446
+msgid "Word Spacing"
+msgstr ""
+
+#: panel/redux-framework/inc/fields/typography/field_typography.php:454
+#: panel/redux-framework/inc/fields/typography/field_typography.php:455
+msgid "Letter Spacing"
+msgstr ""
+
+#: panel/redux-framework/inc/fields/typography/field_typography.php:473
+msgid "Font Color"
+msgstr ""
+
+#: panel/redux-framework/inc/fields/typography/field_typography.php:475
+msgid "Font color"
+msgstr ""
+
+#: panel/redux-framework/inc/fields/typography/field_typography.php:877
+msgid "Standard Fonts"
+msgstr ""
+
+#: panel/redux-framework/inc/fields/typography/field_typography.php:977
+msgid "Google Webfonts"
+msgstr ""
+
+#: panel/redux-framework/inc/validation/color/validation_color.php:15
+#: panel/redux-framework/inc/validation/colorrgba/validation_colorrgba.php:16
+#: panel/redux-framework/inc/validation/color_rgba/validation_color_rgba.php:14
+msgid "This field must be a valid color value."
+msgstr ""
+
+#: panel/redux-framework/inc/validation/comma_numeric/validation_comma_numeric.php:16
+msgid ""
+"You must provide a comma separated list of numerical values for this option."
+msgstr ""
+
+#: panel/redux-framework/inc/validation/css/validation_css.php:39
+msgid "Unsafe strings were found in your CSS and have been filtered out."
+msgstr ""
+
+#: panel/redux-framework/inc/validation/date/validation_date.php:16
+msgid "This field must be a valid date."
+msgstr ""
+
+#: panel/redux-framework/inc/validation/email/validation_email.php:16
+#: panel/redux-framework/inc/validation/email_not_empty/validation_email_not_empty.php:16
+msgid "You must provide a valid email for this option."
+msgstr ""
+
+#: panel/redux-framework/inc/validation/not_empty/validation_not_empty.php:16
+msgid "This field cannot be empty. Please provide a value."
+msgstr ""
+
+#: panel/redux-framework/inc/validation/no_html/validation_no_html.php:15
+msgid ""
+"You must not enter any HTML in this field, all HTML tags have been removed."
+msgstr ""
+
+#: panel/redux-framework/inc/validation/no_special_chars/validation_no_special_chars.php:16
+msgid ""
+"You must not enter any special characters in this field, all special "
+"characters have been removed."
+msgstr ""
+
+#: panel/redux-framework/inc/validation/numeric/validation_numeric.php:16
+#: panel/redux-framework/inc/validation/numeric_not_empty/validation_numeric_not_empty.php:16
+msgid "You must provide a numerical value for this option."
+msgstr ""
+
+#: panel/redux-framework/inc/validation/unique_slug/validation_unique_slug.php:16
+#, php-format
+msgid ""
+"That URL slug is in use, please choose another. <code>%s</code> is open for "
+"use."
+msgstr ""
+
+#: panel/redux-framework/inc/validation/url/validation_url.php:16
+msgid "You must provide a valid URL for this option."
+msgstr ""
+
+#: panel/redux-framework/templates/panel/footer.tpl.php:57
+#: panel/redux-framework/templates/panel/header_stickybar.tpl.php:21
+msgid "Save Changes"
+msgstr ""
+
+#: panel/redux-framework/templates/panel/footer.tpl.php:61
+#: panel/redux-framework/templates/panel/header_stickybar.tpl.php:25
+msgid "Reset Section"
+msgstr ""
+
+#: panel/redux-framework/templates/panel/footer.tpl.php:62
+#: panel/redux-framework/templates/panel/header_stickybar.tpl.php:26
+msgid "Reset All"
+msgstr ""
+
+#: panel/redux-framework/templates/panel/footer.tpl.php:67
+#: panel/redux-framework/templates/panel/header_stickybar.tpl.php:29
+msgid "Working..."
+msgstr ""
+
+#: panel/redux-framework/templates/panel/header.tpl.php:11
+msgid "Developer Mode Enabled"
+msgstr ""
+
+#: panel/redux-framework/templates/panel/header.tpl.php:20
+msgid "WP_DEBUG is enabled"
+msgstr ""
+
+#: panel/redux-framework/templates/panel/header.tpl.php:26
+msgid "you are working in a localhost environment"
+msgstr ""
+
+#: panel/redux-framework/templates/panel/header.tpl.php:31
+msgid "and"
+msgstr ""
+
+#: panel/redux-framework/templates/panel/header.tpl.php:34
+msgid "This has been automatically enabled because"
+msgstr ""
+
+#: panel/redux-framework/templates/panel/header.tpl.php:36
+msgid ""
+"If you are not a developer, your theme/plugin author shipped with developer "
+"mode enabled. Contact them directly to fix it."
+msgstr ""
+
+#: panel/redux-framework/templates/panel/header_stickybar.tpl.php:15
+msgid "Expand"
+msgstr ""
+
+#: vc-addon/heading.php:23 vc-addon/multiselect.php:6 vc-addon/number.php:22
+#: vc-addon/toggle.php:6
+msgid "unknown method "
+msgstr ""
+
+#: wordpress-importer/parsers.php:42 wordpress-importer/parsers.php:72
+#: wordpress-importer/parsers.php:80
+msgid "There was an error when reading this WXR file"
+msgstr ""
+
+#: wordpress-importer/parsers.php:43
+msgid ""
+"Details are shown above. The importer will now try again with a different "
+"parser..."
+msgstr ""
+
+#: wordpress-importer/parsers.php:84 wordpress-importer/parsers.php:89
+#: wordpress-importer/parsers.php:306 wordpress-importer/parsers.php:495
+msgid ""
+"This does not appear to be a WXR file, missing/invalid WXR version number"
+msgstr ""
+
+#: wordpress-importer/wordpress-importer.php:132
+#: wordpress-importer/wordpress-importer.php:141
+#: wordpress-importer/wordpress-importer.php:192
+#: wordpress-importer/wordpress-importer.php:196
+#: wordpress-importer/wordpress-importer.php:205
+msgid "Sorry, there has been an error."
+msgstr ""
+
+#: wordpress-importer/wordpress-importer.php:176
+msgid "All done."
+msgstr ""
+
+#: wordpress-importer/wordpress-importer.php:176
+msgid "Have fun!"
+msgstr ""
+
+#: wordpress-importer/wordpress-importer.php:177
+msgid "Remember to update the passwords and roles of imported users."
+msgstr ""
+
+#: wordpress-importer/wordpress-importer.php:197
+#, php-format
+msgid ""
+"The export file could not be found at <code>%s</code>. It is likely that "
+"this was caused by a permissions problem."
+msgstr ""
+
+#: wordpress-importer/wordpress-importer.php:213
+#, php-format
+msgid ""
+"This WXR file (version %s) may not be supported by this version of the "
+"importer. Please consider updating."
+msgstr ""
+
+#: wordpress-importer/wordpress-importer.php:238
+#, php-format
+msgid ""
+"Failed to import author %s. Their posts will be attributed to the current "
+"user."
+msgstr ""
+
+#: wordpress-importer/wordpress-importer.php:264
+msgid "Assign Authors"
+msgstr ""
+
+#: wordpress-importer/wordpress-importer.php:265
+msgid ""
+"To make it easier for you to edit and save the imported content, you may "
+"want to reassign the author of the imported item to an existing user of this "
+"site. For example, you may want to import all the entries as <code>admin</"
+"code>s entries."
+msgstr ""
+
+#: wordpress-importer/wordpress-importer.php:267
+#, php-format
+msgid ""
+"If a new user is created by WordPress, a new password will be randomly "
+"generated and the new user&#8217;s role will be set as %s. Manually changing "
+"the new user&#8217;s details will be necessary."
+msgstr ""
+
+#: wordpress-importer/wordpress-importer.php:277
+msgid "Import Attachments"
+msgstr ""
+
+#: wordpress-importer/wordpress-importer.php:280
+msgid "Download and import file attachments"
+msgstr ""
+
+#: wordpress-importer/wordpress-importer.php:284
+msgid "Submit"
+msgstr ""
+
+#: wordpress-importer/wordpress-importer.php:297
+msgid "Import author:"
+msgstr ""
+
+#: wordpress-importer/wordpress-importer.php:308
+msgid "or create new user with login name:"
+msgstr ""
+
+#: wordpress-importer/wordpress-importer.php:311
+msgid "as a new user:"
+msgstr ""
+
+#: wordpress-importer/wordpress-importer.php:319
+msgid "assign posts to an existing user:"
+msgstr ""
+
+#: wordpress-importer/wordpress-importer.php:321
+msgid "or assign posts to an existing user:"
+msgstr ""
+
+#: wordpress-importer/wordpress-importer.php:322
+msgid "- Select -"
+msgstr ""
+
+#: wordpress-importer/wordpress-importer.php:372
+#, php-format
+msgid ""
+"Failed to create new user for %s. Their posts will be attributed to the "
+"current user."
+msgstr ""
+
+#: wordpress-importer/wordpress-importer.php:424
+#, php-format
+msgid "Failed to import category %s"
+msgstr ""
+
+#: wordpress-importer/wordpress-importer.php:467
+#, php-format
+msgid "Failed to import post tag %s"
+msgstr ""
+
+#: wordpress-importer/wordpress-importer.php:605
+#, php-format
+msgid "Failed to import &#8220;%s&#8221;: Invalid post type %s"
+msgstr ""
+
+#: wordpress-importer/wordpress-importer.php:642
+#, php-format
+msgid "%s &#8220;%s&#8221; already exists."
+msgstr ""
+
+#: wordpress-importer/wordpress-importer.php:704
+#, php-format
+msgid "Failed to import %s &#8220;%s&#8221;"
+msgstr ""
+
+#: wordpress-importer/wordpress-importer.php:869
+msgid "Menu item skipped due to missing menu slug"
+msgstr ""
+
+#: wordpress-importer/wordpress-importer.php:876
+#, php-format
+msgid "Menu item skipped due to invalid menu slug: %s"
+msgstr ""
+
+#: wordpress-importer/wordpress-importer.php:939
+msgid "Fetching attachments is not enabled"
+msgstr ""
+
+#: wordpress-importer/wordpress-importer.php:996
+msgid "Remote server did not respond"
+msgstr ""
+
+#: wordpress-importer/wordpress-importer.php:1002
+#, php-format
+msgid "Remote server returned error response %1$d %2$s"
+msgstr ""
+
+#: wordpress-importer/wordpress-importer.php:1119
+msgid "Import WordPress"
+msgstr ""
+
+#: wordpress-importer/wordpress-importer.php:1126
+#, php-format
+msgid ""
+"A new version of this importer is available. Please update to version %s to "
+"ensure compatibility with newer export files."
+msgstr ""
+
+#: wordpress-importer/wordpress-importer.php:1141
+msgid ""
+"Howdy! Upload your WordPress eXtended RSS (WXR) file and we&#8217;ll import "
+"the posts, pages, comments, custom fields, categories, and tags into this "
+"site."
+msgstr ""
+
+#: wordpress-importer/wordpress-importer.php:1142
+msgid "Choose a WXR (.xml) file to upload, then click Upload file and import."
+msgstr ""
+
+#: wordpress-importer/wordpress-importer.php:1216
+msgid ""
+"Import <strong>posts, pages, comments, custom fields, categories, and tags</"
+"strong> from a WordPress export file."
+msgstr ""
+
+#~ msgid "By "
+#~ msgstr ""
+
+#~ msgid "Select Service"
+#~ msgstr ""
+
+#~ msgid "Length (cm)"
+#~ msgstr ""
+
+#~ msgid "Height (cm)"
+#~ msgstr ""
+
+#~ msgid "From State"
+#~ msgstr ""
+
+#~ msgid "To State"
+#~ msgstr ""
+
+#~ msgid "Weight (kg)"
+#~ msgstr ""
+
+#~ msgid "Receiver Full Address"
+#~ msgstr ""
+
+#~ msgid "EXTRA SERVICES"
+#~ msgstr ""
+
+#~ msgid "Check Now"
+#~ msgstr ""
+
+#~ msgid "People Reviews"
+#~ msgstr ""
+
+#~ msgid "Comment navigation"
+#~ msgstr ""
+
+#~ msgid "Older Comments"
+#~ msgstr ""
+
+#~ msgid "Newer Comments"
+#~ msgstr ""
+
+#~ msgid "Comments are closed."
+#~ msgstr ""
+
+#~ msgid "Full Name *"
+#~ msgstr ""
+
+#~ msgid "Email Address *"
+#~ msgstr ""
+
+#~ msgid "Website *"
+#~ msgstr ""
+
+#, php-format
+#~ msgid "Required fields are marked %s"
+#~ msgstr ""
+
+#~ msgid "Comment *"
+#~ msgstr ""
+
+#~ msgid "You must be "
+#~ msgstr ""
+
+#~ msgid "logged in "
+#~ msgstr ""
+
+#~ msgid "to post a comment"
+#~ msgstr ""
+
+#~ msgid "Logged in as "
+#~ msgstr ""
+
+#~ msgid "Log out of this account"
+#~ msgstr ""
+
+#~ msgid "Log out"
+#~ msgstr ""
+
+#~ msgid "Your email address will not be published . "
+#~ msgstr ""
+
+#~ msgid "You may use these "
+#~ msgstr ""
+
+#~ msgid "HyperText Markup Language HTML"
+#~ msgstr ""
+
+#~ msgid "tags and attributes"
+#~ msgstr ""
+
+#~ msgid "Leave A Reply"
+#~ msgstr ""
+
+#, php-format
+#~ msgid "Leave a Reply to %s"
+#~ msgstr ""
+
+#~ msgid "Cancel reply"
+#~ msgstr ""
+
+#~ msgid "POST COMMENT"
+#~ msgstr ""
+
+#~ msgid "says"
+#~ msgstr ""
+
+#~ msgid " at "
+#~ msgstr ""
+
+#~ msgid "Support"
+#~ msgstr ""
+
+#~ msgid "Sign Out"
+#~ msgstr ""
+
+#~ msgid "Sign In"
+#~ msgstr ""
+
+#~ msgid "SUBMISSION SUCCESSFUL"
+#~ msgstr ""
+
+#~ msgid "Blog Posts"
+#~ msgstr ""
+
+#~ msgid "Refine Your Search"
+#~ msgstr ""
+
+#~ msgid "Enter your Keyword"
+#~ msgstr ""
+
+#~ msgid "SEARCH NOW"
+#~ msgstr ""
+
+#~ msgid "Search Results Found"
+#~ msgstr ""
+
+#~ msgid "S"
+#~ msgstr ""
+
+#~ msgid "No Record Found"
+#~ msgstr ""
+
+#~ msgid "The Link Might Be Corrupted "
+#~ msgstr ""
+
+#~ msgid "OR"
+#~ msgstr ""
+
+#~ msgid " The Page May Have Been Removed"
+#~ msgstr ""
+
+#~ msgid "GO BACK HOME"
+#~ msgstr ""
+
+#~ msgid "SEARCH"
+#~ msgstr ""
+
+#~ msgid "Share This Event"
+#~ msgstr ""
+
+#~ msgid "Event Organiser"
+#~ msgstr ""
+
+#~ msgid "Organiser Phone"
+#~ msgstr ""
+
+#~ msgid "Organiser Address"
+#~ msgstr ""
+
+#~ msgid "Ref No"
+#~ msgstr ""
+
+#~ msgid "Per Pack"
+#~ msgstr ""
+
+#~ msgid "Delivery With In"
+#~ msgstr ""
+
+#~ msgid "Delivery Date"
+#~ msgstr ""
+
+#~ msgid "Chart"
+#~ msgstr ""
+
+#~ msgid "Satisfide Users"
+#~ msgstr ""
+
+#~ msgid "Book Now"
+#~ msgstr ""
+
+#~ msgid "Phone No"
+#~ msgstr ""
+
+#~ msgid "Email Address"
+#~ msgstr ""
+
+#~ msgid "Delivery Within "
+#~ msgstr ""
+
+#~ msgid "ORDER NOW"
+#~ msgstr ""
+
+#~ msgid "Share This Post"
+#~ msgstr ""
+
+#~ msgid "Tags Cloud"
+#~ msgstr ""
+
+#~ msgid "BOOK NOW"
+#~ msgstr ""
+
+#~ msgid "No Value"
+#~ msgstr ""
+
+#~ msgid "No Service"
+#~ msgstr ""
+
+#~ msgid "Select Date"
+#~ msgstr ""
+
+#~ msgid "Name"
+#~ msgstr ""
+
+#~ msgid "Reciver Information"
+#~ msgstr ""
+
+#~ msgid "Terms of Service "
+#~ msgstr ""
+
+#~ msgid " and "
+#~ msgstr ""
+
+#~ msgid "Privacy Policy"
+#~ msgstr ""
+
+#~ msgid "GET IN TOUCH"
+#~ msgstr ""
+
+#~ msgid "Fill The Form Bellow. And Get In Touch Immediately"
+#~ msgstr ""
+
+#~ msgid "Complete Name"
+#~ msgstr ""
+
+#~ msgid "Subject"
+#~ msgstr ""
+
+#~ msgid "Contact Now"
+#~ msgstr ""
+
+#~ msgid "Phone Number"
+#~ msgstr ""
+
+#~ msgid "Country Name"
+#~ msgstr ""
+
+#~ msgid "City Name"
+#~ msgstr ""
+
+#~ msgid "Order ID"
+#~ msgstr ""
+
+#~ msgid "Delivery "
+#~ msgstr ""
+
+#~ msgid "SHIPPING"
+#~ msgstr ""
+
+#~ msgid "View"
+#~ msgstr ""
+
+#~ msgid "Primary"
+#~ msgstr ""
+
+#~ msgid "Footer"
+#~ msgstr ""
+
+#~ msgid "Unload Customer"
+#~ msgstr ""
+
+#~ msgid "Cloning the registry is not permitted"
+#~ msgstr ""
+
+#~ msgid "All Categories"
+#~ msgstr ""
+
+#~ msgid "K"
+#~ msgstr ""
+
+#~ msgid "M"
+#~ msgstr ""
+
+#~ msgid "B"
+#~ msgstr ""
+
+#~ msgid "T"
+#~ msgstr ""
+
+#, php-format
+#~ msgid "View all posts in %s"
+#~ msgstr ""
+
+#~ msgid "Remember My Password"
+#~ msgstr ""
+
+#~ msgid "SIGN IN NOW"
+#~ msgstr ""
+
+#~ msgid "Forgot Password"
+#~ msgstr ""
+
+#~ msgid "First Name"
+#~ msgstr ""
+
+#~ msgid "Last Name"
+#~ msgstr ""
+
+#~ msgid "New Password"
+#~ msgstr ""
+
+#~ msgid "Re-Type Password"
+#~ msgstr ""
+
+#~ msgid "Terms of Service"
+#~ msgstr ""
+
+#~ msgid "REGISTER"
+#~ msgstr ""
+
+#~ msgid "Opening Time"
+#~ msgstr ""
+
+#~ msgid "Please Enter User Name"
+#~ msgstr ""
+
+#~ msgid "Please Enter Password"
+#~ msgstr ""
+
+#~ msgid "Invalid username"
+#~ msgstr ""
+
+#~ msgid "Wrong username or password."
+#~ msgstr ""
+
+#~ msgid "Login Successfull!Redirecting..."
+#~ msgstr ""
+
+#~ msgid "Please Enter your Name"
+#~ msgstr ""
+
+#~ msgid "Please Enter your Email ID"
+#~ msgstr ""
+
+#, php-format
+#~ msgid "This %s email address is considered valid."
+#~ msgstr ""
+
+#~ msgid "Please Enter your Message"
+#~ msgstr ""
+
+#~ msgid "Please Enter minimum 10 characters in message field."
+#~ msgstr ""
+
+#~ msgid "Contact Us Message"
+#~ msgstr ""
+
+#~ msgid "Please Enter First Name"
+#~ msgstr ""
+
+#~ msgid "Please Enter Last Name"
+#~ msgstr ""
+
+#~ msgid "Username already taken"
+#~ msgstr ""
+
+#~ msgid "Please Enter Email Addresss"
+#~ msgstr ""
+
+#~ msgid "Invalid Email Addresss"
+#~ msgstr ""
+
+#~ msgid "Email already registered"
+#~ msgstr ""
+
+#~ msgid "Please enter a Password"
+#~ msgstr ""
+
+#~ msgid "Please enter a Re-password"
+#~ msgstr ""
+
+#~ msgid "Passwords do not match"
+#~ msgstr ""
+
+#~ msgid "Please accept terms & condition"
+#~ msgstr ""
+
+#~ msgid "Login successful, redirecting..."
+#~ msgstr ""
+
+#~ msgid "Please enter your name"
+#~ msgstr ""
+
+#~ msgid "Please enter your email"
+#~ msgstr ""
+
+#~ msgid "Please select from date"
+#~ msgstr ""
+
+#~ msgid "Please select to date"
+#~ msgstr ""
+
+#~ msgid "Please enter your message"
+#~ msgstr ""
+
+#~ msgid "From Date"
+#~ msgstr ""
+
+#~ msgid "To Date"
+#~ msgstr ""
+
+#~ msgid "Request A Quote"
+#~ msgstr ""
+
+#~ msgid "OFFICE ADDRESS"
+#~ msgstr ""
+
+#~ msgid "Send"
+#~ msgstr ""
+
+#~ msgid "Please Enter Your Name"
+#~ msgstr ""
+
+#~ msgid "Please Enter Your Email"
+#~ msgstr ""
+
+#~ msgid "Please Enter Your Subject"
+#~ msgstr ""
+
+#~ msgid "Please Enter Your Message"
+#~ msgstr ""
+
+#~ msgid "Please Enter MailChimp API Key in theme options"
+#~ msgstr ""
+
+#~ msgid "Please Enter MailChimp List ID in theme options"
+#~ msgstr ""
+
+#~ msgid "Please Enter Your Email Address"
+#~ msgstr ""
+
+#~ msgid "Please Enter Valid Email Address"
+#~ msgstr ""
+
+#~ msgid "Invalid List ID"
+#~ msgstr ""
+
+#~ msgid "is Already Exists"
+#~ msgstr ""
+
+#~ msgid "Thank you for subscribing with us"
+#~ msgstr ""
+
+#, php-format
+#~ msgid "%s not be empty"
+#~ msgstr ""
+
+#~ msgid "Order Received"
+#~ msgstr ""
+
+#, php-format
+#~ msgid "Order ID %s"
+#~ msgstr ""
+
+#, php-format
+#~ msgid "Received New Order %s"
+#~ msgstr ""
+
+#, php-format
+#~ msgid "User Information of %s:"
+#~ msgstr ""
+
+#, php-format
+#~ msgid "Username: %s"
+#~ msgstr ""
+
+#, php-format
+#~ msgid "Password: %s"
+#~ msgstr ""
+
+#, php-format
+#~ msgid "Email: %s"
+#~ msgstr ""
+
+#, php-format
+#~ msgid "Please Login from this link: %s"
+#~ msgstr ""
+
+#, php-format
+#~ msgid "[%s] Your username and password info"
+#~ msgstr ""
+
+#~ msgid "Invalid Tracking Code"
+#~ msgstr ""
+
+#~ msgid "Enter the tracking code"
+#~ msgstr ""
+
+#, php-format
+#~ msgid "Shipping Request From %s:"
+#~ msgstr ""
+
+#, php-format
+#~ msgid "Features: %s"
+#~ msgstr ""
+
+#~ msgid "Primary Widget Area"
+#~ msgstr ""
+
+#~ msgid "The primary widget area"
+#~ msgstr ""
+
+#~ msgid "Footer Widget Area"
+#~ msgstr ""
+
+#~ msgid "Footer widget area"
+#~ msgstr ""
+
+#~ msgid "Miscellaneous"
+#~ msgstr ""
+
+#~ msgid "Miscellaneous Settings"
+#~ msgstr ""
+
+#~ msgid "Yes"
+#~ msgstr ""
+
+#~ msgid "No"
+#~ msgstr ""
+
+#~ msgid "Show miscellaneous settings for this section."
+#~ msgstr ""
+
+#~ msgid "Top Space"
+#~ msgstr ""
+
+#~ msgid "Remove space in the top of section"
+#~ msgstr ""
+
+#~ msgid "Bottom Space"
+#~ msgstr ""
+
+#~ msgid "Remove space in the bottom of section"
+#~ msgstr ""
+
+#~ msgid "Top Bottom Space"
+#~ msgstr ""
+
+#~ msgid "Overlap"
+#~ msgstr ""
+
+#~ msgid "Overlap this section"
+#~ msgstr ""
+
+#~ msgid "Gray Section"
+#~ msgstr ""
+
+#~ msgid "Make this section background gray"
+#~ msgstr ""
+
+#~ msgid "Other"
+#~ msgstr ""
+
+#~ msgid "Container"
+#~ msgstr ""
+
+#~ msgid "Enable container for this section"
+#~ msgstr ""
+
+#~ msgid "Parallax"
+#~ msgstr ""
+
+#~ msgid "Show Parallax"
+#~ msgstr ""
+
+#~ msgid "Make this section parallax then true."
+#~ msgstr ""
+
+#~ msgid "Parallax Layer"
+#~ msgstr ""
+
+#~ msgid "No Layer"
+#~ msgstr ""
+
+#~ msgid "Whitish"
+#~ msgstr ""
+
+#~ msgid "Light Black"
+#~ msgstr ""
+
+#~ msgid "Blackish"
+#~ msgstr ""
+
+#~ msgid "Blue"
+#~ msgstr ""
+
+#~ msgid "Dark"
+#~ msgstr ""
+
+#~ msgid "Grayish"
+#~ msgstr ""
+
+#~ msgid "Dark Blue"
+#~ msgstr ""
+
+#~ msgid "Choose Style for Parallax."
+#~ msgstr ""
+
+#~ msgid "Parallax Type"
+#~ msgstr ""
+
+#~ msgid "Moving"
+#~ msgstr ""
+
+#~ msgid "Fixed BG"
+#~ msgstr ""
+
+#~ msgid "Fixed Image"
+#~ msgstr ""
+
+#~ msgid "Choose Parallax Type."
+#~ msgstr ""
+
+#~ msgid "Parallax Background"
+#~ msgstr ""
+
+#~ msgid "Make this section as parallax."
+#~ msgstr ""
+
+#~ msgid "Title Setting"
+#~ msgstr ""
+
+#~ msgid "Show Title"
+#~ msgstr ""
+
+#~ msgid "Make this section with title."
+#~ msgstr ""
+
+#~ msgid "Title Style"
+#~ msgstr ""
+
+#~ msgid "No Style"
+#~ msgstr ""
+
+#~ msgid "Dark Title With Icon"
+#~ msgstr ""
+
+#~ msgid "Dark Title"
+#~ msgstr ""
+
+#~ msgid "Center Title"
+#~ msgstr ""
+
+#~ msgid "Left Title With Description"
+#~ msgstr ""
+
+#~ msgid "Left Title Without Description"
+#~ msgstr ""
+
+#~ msgid "Left Small Title"
+#~ msgstr ""
+
+#~ msgid "Left Large Title"
+#~ msgstr ""
+
+#~ msgid "Fancy Title Style One"
+#~ msgstr ""
+
+#~ msgid "Fancy Title Style Two"
+#~ msgstr ""
+
+#~ msgid "Select the title style for this section"
+#~ msgstr ""
+
+#~ msgid "Enter the title of this section."
+#~ msgstr ""
+
+#~ msgid "Enter the sub title of this section."
+#~ msgstr ""
+
+#~ msgid "Enter the short description"
+#~ msgstr ""
+
+#~ msgid "Enter the sub enter the title description for this section."
+#~ msgstr ""
+
+#~ msgid "Install Required Plugins"
+#~ msgstr ""
+
+#~ msgid "Install Plugins"
+#~ msgstr ""
+
+#, php-format
+#~ msgid "Installing Plugin: %s"
+#~ msgstr ""
+
+#, php-format
+#~ msgid "Updating Plugin: %s"
+#~ msgstr ""
+
+#~ msgid "Something went wrong with the plugin API."
+#~ msgstr ""
+
+#, php-format
+#~ msgid "This theme requires the following plugin: %1$s."
+#~ msgid_plural "This theme requires the following plugins: %1$s."
+#~ msgstr[0] ""
+#~ msgstr[1] ""
+
+#, php-format
+#~ msgid "This theme recommends the following plugin: %1$s."
+#~ msgid_plural "This theme recommends the following plugins: %1$s."
+#~ msgstr[0] ""
+#~ msgstr[1] ""
+
+#, php-format
+#~ msgid "There is an update available for: %1$s."
+#~ msgid_plural "There are updates available for the following plugins: %1$s."
+#~ msgstr[0] ""
+#~ msgstr[1] ""
+
+#, php-format
+#~ msgid "The following required plugin is currently inactive: %1$s."
+#~ msgid_plural "The following required plugins are currently inactive: %1$s."
+#~ msgstr[0] ""
+#~ msgstr[1] ""
+
+#, php-format
+#~ msgid "The following recommended plugin is currently inactive: %1$s."
+#~ msgid_plural "The following recommended plugins are currently inactive: %1$s."
+#~ msgstr[0] ""
+#~ msgstr[1] ""
+
+#~ msgid "Begin installing plugin"
+#~ msgid_plural "Begin installing plugins"
+#~ msgstr[0] ""
+#~ msgstr[1] ""
+
+#~ msgid "Begin updating plugin"
+#~ msgid_plural "Begin updating plugins"
+#~ msgstr[0] ""
+#~ msgstr[1] ""
+
+#~ msgid "Begin activating plugin"
+#~ msgid_plural "Begin activating plugins"
+#~ msgstr[0] ""
+#~ msgstr[1] ""
+
+#~ msgid "Return to Required Plugins Installer"
+#~ msgstr ""
+
+#~ msgid "Return to the Dashboard"
+#~ msgstr ""
+
+#~ msgid "Plugin activated successfully."
+#~ msgstr ""
+
+#~ msgid "The following plugin was activated successfully:"
+#~ msgid_plural "The following plugins were activated successfully:"
+#~ msgstr[0] ""
+#~ msgstr[1] ""
+
+#, php-format
+#~ msgid "No action taken. Plugin %1$s was already active."
+#~ msgstr ""
+
+#, php-format
+#~ msgid "All plugins installed and activated successfully. %1$s"
+#~ msgstr ""
+
+#~ msgid "Dismiss this notice"
+#~ msgstr ""
+
+#~ msgid "Please contact the administrator of this site for help."
+#~ msgstr ""
+
+#, php-format
+#~ msgid "TGMPA v%s"
+#~ msgstr ""
+
+#~ msgid "Required"
+#~ msgstr ""
+
+#~ msgid "Recommended"
+#~ msgstr ""
+
+#~ msgid "WordPress Repository"
+#~ msgstr ""
+
+#~ msgid "External Source"
+#~ msgstr ""
+
+#~ msgid "Pre-Packaged"
+#~ msgstr ""
+
+#~ msgid "Not Installed"
+#~ msgstr ""
+
+#~ msgid "Installed But Not Activated"
+#~ msgstr ""
+
+#~ msgid "Required Update not Available"
+#~ msgstr ""
+
+#~ msgid "Requires Update"
+#~ msgstr ""
+
+#~ msgid "Update recommended"
+#~ msgstr ""
+
+#, php-format
+#~ msgctxt "Install/Update Status"
+#~ msgid "%1$s, %2$s"
+#~ msgstr ""
+
+#, php-format
+#~ msgctxt "plugins"
+#~ msgid "All <span class=\"count\">(%s)</span>"
+#~ msgid_plural "All <span class=\"count\">(%s)</span>"
+#~ msgstr[0] ""
+#~ msgstr[1] ""
+
+#, php-format
+#~ msgid "To Install <span class=\"count\">(%s)</span>"
+#~ msgid_plural "To Install <span class=\"count\">(%s)</span>"
+#~ msgstr[0] ""
+#~ msgstr[1] ""
+
+#, php-format
+#~ msgid "Update Available <span class=\"count\">(%s)</span>"
+#~ msgid_plural "Update Available <span class=\"count\">(%s)</span>"
+#~ msgstr[0] ""
+#~ msgstr[1] ""
+
+#, php-format
+#~ msgid "To Activate <span class=\"count\">(%s)</span>"
+#~ msgid_plural "To Activate <span class=\"count\">(%s)</span>"
+#~ msgstr[0] ""
+#~ msgstr[1] ""
+
+#~ msgctxt "as in: \"version nr unknown\""
+#~ msgid "unknown"
+#~ msgstr ""
+
+#~ msgid "Installed version:"
+#~ msgstr ""
+
+#~ msgid "Minimum required version:"
+#~ msgstr ""
+
+#~ msgid "Available version:"
+#~ msgstr ""
+
+#~ msgid "Plugin"
+#~ msgstr ""
+
+#~ msgid "Source"
+#~ msgstr ""
+
+#~ msgid "Type"
+#~ msgstr ""
+
+#~ msgid "Version"
+#~ msgstr ""
+
+#~ msgid "Status"
+#~ msgstr ""
+
+#, php-format
+#~ msgid "Install %2$s"
+#~ msgstr ""
+
+#, php-format
+#~ msgid "Update %2$s"
+#~ msgstr ""
+
+#, php-format
+#~ msgid "Activate %2$s"
+#~ msgstr ""
+
+#~ msgid "Install"
+#~ msgstr ""
+
+#~ msgid "Update"
+#~ msgstr ""
+
+#~ msgid "Activate"
+#~ msgstr ""
+
+#~ msgid "No plugins were selected to be installed. No action taken."
+#~ msgstr ""
+
+#~ msgid "No plugins were selected to be updated. No action taken."
+#~ msgstr ""
+
+#~ msgid "No plugins are available to be installed at this time."
+#~ msgstr ""
+
+#~ msgid "No plugins are available to be updated at this time."
+#~ msgstr ""
+
+#~ msgid "Plugin activation failed."
+#~ msgstr ""
+
+#, php-format
+#~ msgid "Updating Plugin %1$s (%2$d/%3$d)"
+#~ msgstr ""
+
+#, php-format
+#~ msgid "An error occurred while installing %1$s: <strong>%2$s</strong>."
+#~ msgstr ""
+
+#, php-format
+#~ msgid "The installation of %1$s failed."
+#~ msgstr ""
+
+#, php-format
+#~ msgid "%1$s installed and activated successfully."
+#~ msgstr ""
+
+#~ msgid "All installations and activations have been completed."
+#~ msgstr ""
+
+#, php-format
+#~ msgid "Installing and Activating Plugin %1$s (%2$d/%3$d)"
+#~ msgstr ""
+
+#~ msgid "All installations have been completed."
+#~ msgstr ""
+
+#, php-format
+#~ msgid "Installing Plugin %1$s (%2$d/%3$d)"
+#~ msgstr ""
+
+#~ msgid "Visual Composer"
+#~ msgstr ""
+
+#~ msgid "Layer Slider"
+#~ msgstr ""
+
+#~ msgid "Unload"
+#~ msgstr ""
+
+#~ msgid "404"
+#~ msgstr ""
+
+#~ msgid "Unload Theme 404 Settings"
+#~ msgstr ""
+
+#~ msgid "Show or hide search page header section"
+#~ msgstr ""
+
+#~ msgid "404 Text"
+#~ msgstr ""
+
+#~ msgid "404 Sub Text"
+#~ msgstr ""
+
+#~ msgid "Home Button"
+#~ msgstr ""
+
+#~ msgid "Show or hide 404 home button"
+#~ msgstr ""
+
+#~ msgid "Archive"
+#~ msgstr ""
+
+#~ msgid "Unload Theme Archive Settings"
+#~ msgstr ""
+
+#~ msgid "Select Blog Layout"
+#~ msgstr ""
+
+#~ msgid "1 Column"
+#~ msgstr ""
+
+#~ msgid "2 Column"
+#~ msgstr ""
+
+#~ msgid "3 Column"
+#~ msgstr ""
+
+#~ msgid "4 Column"
+#~ msgstr ""
+
+#~ msgid "Show or hide archive page header section"
+#~ msgstr ""
+
+#~ msgid "Select the sidebar layout of all blog posts."
+#~ msgstr ""
+
+#~ msgid "Full"
+#~ msgstr ""
+
+#~ msgid "Sidebar"
+#~ msgstr ""
+
+#~ msgid "Show or hide post image"
+#~ msgstr ""
+
+#~ msgid "Show or hide post date"
+#~ msgstr ""
+
+#~ msgid "Show or hide post title"
+#~ msgstr ""
+
+#~ msgid "Content"
+#~ msgstr ""
+
+#~ msgid "Show or hide post content"
+#~ msgstr ""
+
+#~ msgid "Comment"
+#~ msgstr ""
+
+#~ msgid "Show or hide post comment"
+#~ msgstr ""
+
+#~ msgid "Show or hide post author"
+#~ msgstr ""
+
+#~ msgid "Unload Theme Author Settings"
+#~ msgstr ""
+
+#~ msgid "Show or hide author page header section"
+#~ msgstr ""
+
+#~ msgid "Blog Post"
+#~ msgstr ""
+
+#~ msgid "Unload Theme Blog Post Settings"
+#~ msgstr ""
+
+#~ msgid "Show or hide blog page header section"
+#~ msgstr ""
+
+#~ msgid "Single Post"
+#~ msgstr ""
+
+#~ msgid "Unload Theme Blog Single Post Settings"
+#~ msgstr ""
+
+#~ msgid "Featured Image"
+#~ msgstr ""
+
+#~ msgid "Show or hide blog post featured image"
+#~ msgstr ""
+
+#~ msgid "Show or hide blog post title"
+#~ msgstr ""
+
+#~ msgid "Show or hide blog post categories"
+#~ msgstr ""
+
+#~ msgid "Show or hide blog post date"
+#~ msgstr ""
+
+#~ msgid "Show or hide blog post author"
+#~ msgstr ""
+
+#~ msgid "Comment Count"
+#~ msgstr ""
+
+#~ msgid "Show or hide blog post comment count"
+#~ msgstr ""
+
+#~ msgid "Post Share"
+#~ msgstr ""
+
+#~ msgid "Show or hide blog post share"
+#~ msgstr ""
+
+#~ msgid "Select Social Shares"
+#~ msgstr ""
+
+#~ msgid "Facebook"
+#~ msgstr ""
+
+#~ msgid "Twitter"
+#~ msgstr ""
+
+#~ msgid "Google Plus"
+#~ msgstr ""
+
+#~ msgid "Reddit"
+#~ msgstr ""
+
+#~ msgid "Linkedin"
+#~ msgstr ""
+
+#~ msgid "Pinterest"
+#~ msgstr ""
+
+#~ msgid "Tumblr"
+#~ msgstr ""
+
+#~ msgid "Post Tag's"
+#~ msgstr ""
+
+#~ msgid "Show or hide blog post tag's"
+#~ msgstr ""
+
+#~ msgid "Body Styling"
+#~ msgstr ""
+
+#~ msgid "Unload Theme Body Typography Settings"
+#~ msgstr ""
+
+#~ msgid "Body Typography"
+#~ msgstr ""
+
+#~ msgid "Show or hide body typography"
+#~ msgstr ""
+
+#~ msgid "Typography option with each property can be called individually."
+#~ msgstr ""
+
+#~ msgid "Booking"
+#~ msgstr ""
+
+#~ msgid "Unload Theme Booking Settings"
+#~ msgstr ""
+
+#~ msgid "Upload side image"
+#~ msgstr ""
+
+#~ msgid "Upload background image"
+#~ msgstr ""
+
+#~ msgid "Button Text"
+#~ msgstr ""
+
+#~ msgid "Term's & Condition Text"
+#~ msgstr ""
+
+#~ msgid "Show Terms & Condition"
+#~ msgstr ""
+
+#~ msgid "Terms & Conditions Page"
+#~ msgstr ""
+
+#~ msgid "Select the page for terms & condition page"
+#~ msgstr ""
+
+#~ msgid "Show Privacy Plolicy"
+#~ msgstr ""
+
+#~ msgid "Privacy Policy Page"
+#~ msgstr ""
+
+#~ msgid "Select the page for privacy policy page"
+#~ msgstr ""
+
+#~ msgid "Order Prefix"
+#~ msgstr ""
+
+#~ msgid "Success Message"
+#~ msgstr ""
+
+#~ msgid "Set from mail"
+#~ msgstr ""
+
+#~ msgid "Category"
+#~ msgstr ""
+
+#~ msgid "Unload Theme Category Settings"
+#~ msgstr ""
+
+#~ msgid "Show or hide category page header section"
+#~ msgstr ""
+
+#~ msgid "Contact Us"
+#~ msgstr ""
+
+#~ msgid "Unload Theme Contact Settings"
+#~ msgstr ""
+
+#~ msgid "Enter email address to receive collect email from contact form"
+#~ msgstr ""
+
+#~ msgid "Google Map"
+#~ msgstr ""
+
+#~ msgid "Enter google map Latitude & Longitude with Comma seprated"
+#~ msgstr ""
+
+#~ msgid "Office Info"
+#~ msgstr ""
+
+#~ msgid "Office Information"
+#~ msgstr ""
+
+#~ msgid "Background Image"
+#~ msgstr ""
+
+#~ msgid "Unload Theme Footer Settings"
+#~ msgstr ""
+
+#~ msgid "Show Footer"
+#~ msgstr ""
+
+#~ msgid "Footer Options"
+#~ msgstr ""
+
+#~ msgid "Footer Menu"
+#~ msgstr ""
+
+#~ msgid "Upload Footer Background Image"
+#~ msgstr ""
+
+#~ msgid "Footer Social Media Builder"
+#~ msgstr ""
+
+#~ msgid "Footer Copyright Text"
+#~ msgstr ""
+
+#~ msgid "Footer Builder"
+#~ msgstr ""
+
+#~ msgid "Unload Theme Footer Builder Settings"
+#~ msgstr ""
+
+#~ msgid "Daynamic Footer Builder"
+#~ msgstr ""
+
+#~ msgid "General"
+#~ msgstr ""
+
+#~ msgid "Unload Theme General Settings"
+#~ msgstr ""
+
+#~ msgid "Theme RTL"
+#~ msgstr ""
+
+#~ msgid "Theme Color"
+#~ msgstr ""
+
+#~ msgid "Google Settings"
+#~ msgstr ""
+
+#~ msgid "Enter Google Map Api Key"
+#~ msgstr ""
+
+#~ msgid "Enter Google Captch Site Key"
+#~ msgstr ""
+
+#~ msgid "Enter Google Captch Site Secret"
+#~ msgstr ""
+
+#~ msgid "H1 Styling"
+#~ msgstr ""
+
+#~ msgid "Unload Theme H1 Typography Settings"
+#~ msgstr ""
+
+#~ msgid "H1 Typography"
+#~ msgstr ""
+
+#~ msgid "H2 Styling"
+#~ msgstr ""
+
+#~ msgid "Unload Theme H2 Typography Settings"
+#~ msgstr ""
+
+#~ msgid "H2 Typography"
+#~ msgstr ""
+
+#~ msgid "H3 Styling"
+#~ msgstr ""
+
+#~ msgid "Unload Theme H3 Typography Settings"
+#~ msgstr ""
+
+#~ msgid "H3 Typography"
+#~ msgstr ""
+
+#~ msgid "H4 Styling"
+#~ msgstr ""
+
+#~ msgid "Unload Theme H4 Typography Settings"
+#~ msgstr ""
+
+#~ msgid "H4 Typography"
+#~ msgstr ""
+
+#~ msgid "H5 Styling"
+#~ msgstr ""
+
+#~ msgid "Unload Theme H5 Typography Settings"
+#~ msgstr ""
+
+#~ msgid "H5 Typography"
+#~ msgstr ""
+
+#~ msgid "H6 Styling"
+#~ msgstr ""
+
+#~ msgid "Unload Theme H6 Typography Settings"
+#~ msgstr ""
+
+#~ msgid "H6 Typography"
+#~ msgstr ""
+
+#~ msgid "Header"
+#~ msgstr ""
+
+#~ msgid "Unload Theme Header Settings"
+#~ msgstr ""
+
+#~ msgid "Select Header Style"
+#~ msgstr ""
+
+#~ msgid "Select the header style for this theme."
+#~ msgstr ""
+
+#~ msgid "Header Style 1"
+#~ msgstr ""
+
+#~ msgid "Header Style 2"
+#~ msgstr ""
+
+#~ msgid "Header Style 3"
+#~ msgstr ""
+
+#~ msgid "Header Style 4"
+#~ msgstr ""
+
+#~ msgid "Header One Settings"
+#~ msgstr ""
+
+#~ msgid "In this section set all available header one options."
+#~ msgstr ""
+
+#~ msgid "Theme"
+#~ msgstr ""
+
+#~ msgid "Light"
+#~ msgstr ""
+
+#~ msgid "Header Sticky"
+#~ msgstr ""
+
+#~ msgid "Upload Logo"
+#~ msgstr ""
+
+#~ msgid "Show Header Contact Number"
+#~ msgstr ""
+
+#~ msgid "Enter the Contact Number"
+#~ msgstr ""
+
+#~ msgid "Enter the Office Location"
+#~ msgstr ""
+
+#~ msgid "Show Header Contact Email"
+#~ msgstr ""
+
+#~ msgid "Enter the Contact Email"
+#~ msgstr ""
+
+#~ msgid "Enter the Email Bottom Tag"
+#~ msgstr ""
+
+#~ msgid "Show Shipping Calculator PopUp"
+#~ msgstr ""
+
+#~ msgid "Enter the button text"
+#~ msgstr ""
+
+#~ msgid "Show Header Top Bar"
+#~ msgstr ""
+
+#~ msgid "Show Header Top Bar Timing"
+#~ msgstr ""
+
+#~ msgid "Enter the timing"
+#~ msgstr ""
+
+#~ msgid "Show Header Top Bar Signin"
+#~ msgstr ""
+
+#~ msgid "Show Header Top Bar Contact Form Link"
+#~ msgstr ""
+
+#~ msgid "Show Header Top Bar Social Media"
+#~ msgstr ""
+
+#~ msgid "Header Two Top Bar Social Media Builder"
+#~ msgstr ""
+
+#~ msgid "Header Two Settings"
+#~ msgstr ""
+
+#~ msgid "In this section set all available header two options."
+#~ msgstr ""
+
+#~ msgid "Header Three Settings"
+#~ msgstr ""
+
+#~ msgid "In this section set all available header three options."
+#~ msgstr ""
+
+#~ msgid "Header Four Settings"
+#~ msgstr ""
+
+#~ msgid "In this section set all available header Four options."
+#~ msgstr ""
+
+#~ msgid "Responsive Header"
+#~ msgstr ""
+
+#~ msgid "Unload Theme Responsive Header Setting"
+#~ msgstr ""
+
+#~ msgid "Show Header Signin"
+#~ msgstr ""
+
+#~ msgid "Show Header Timing"
+#~ msgstr ""
+
+#~ msgid "Language Uploader"
+#~ msgstr ""
+
+#~ msgid "Unload Theme localization Settings"
+#~ msgstr ""
+
+#~ msgid "Newsletter"
+#~ msgstr ""
+
+#~ msgid "Unload Theme Newsletter Settings"
+#~ msgstr ""
+
+#~ msgid "MailChimp API Key"
+#~ msgstr ""
+
+#, php-format
+#~ msgid "Enter your MailChimp API Key. You can get it %s."
+#~ msgstr ""
+
+#~ msgid "here"
+#~ msgstr ""
+
+#~ msgid "MailChimp List ID"
+#~ msgstr ""
+
+#, php-format
+#~ msgid "Enter your List ID. You can get it %s."
+#~ msgstr ""
+
+#~ msgid "Search"
+#~ msgstr ""
+
+#~ msgid "Unload Theme Search Settings"
+#~ msgstr ""
+
+#~ msgid "Shipping Calculator"
+#~ msgstr ""
+
+#~ msgid "Unload Theme Shipping Clculator"
+#~ msgstr ""
+
+#~ msgid "Email id for receiving email's"
+#~ msgstr ""
+
+#~ msgid "Extra Features"
+#~ msgstr ""
+
+#~ msgid "Sidebar & Widget's"
+#~ msgstr ""
+
+#~ msgid "Unload Theme Widget Sidebar Settings"
+#~ msgstr ""
+
+#~ msgid "Dynamic Sidebar Name"
+#~ msgstr ""
+
+#~ msgid "Enter the name of dynamic sidebar"
+#~ msgstr ""
+
+#~ msgid "Wordpress Default Sidebar Subtitle"
+#~ msgstr ""
+
+#~ msgid "Enter wordpress default widget's subtitle."
+#~ msgstr ""
+
+#~ msgid "Enter Archive Widget Subtitle"
+#~ msgstr ""
+
+#~ msgid "Enter Calendar Widget Subtitle"
+#~ msgstr ""
+
+#~ msgid "Enter Categories Widget Subtitle"
+#~ msgstr ""
+
+#~ msgid "Enter Nav Menu Widget Subtitle"
+#~ msgstr ""
+
+#~ msgid "Enter Meta Widget Subtitle"
+#~ msgstr ""
+
+#~ msgid "Enter Pages Widget Subtitle"
+#~ msgstr ""
+
+#~ msgid "Enter Recent Comments Subtitle"
+#~ msgstr ""
+
+#~ msgid "Enter Recent Posts Subtitle"
+#~ msgstr ""
+
+#~ msgid "Enter Rss Subtitle"
+#~ msgstr ""
+
+#~ msgid "Enter Tag Cloud Subtitle"
+#~ msgstr ""
+
+#~ msgid "Enter Text Subtitle"
+#~ msgstr ""
+
+#~ msgid "Enter Search Widget Subtitle"
+#~ msgstr ""
+
+#~ msgid "Login & Sign Up"
+#~ msgstr ""
+
+#~ msgid "Unload Theme Login & Sign Up Settings"
+#~ msgstr ""
+
+#~ msgid "Upload PopUp Background"
+#~ msgstr ""
+
+#~ msgid "Show Login Area"
+#~ msgstr ""
+
+#~ msgid "Login PopUp Section"
+#~ msgstr ""
+
+#~ msgid "In this section set all available Login options."
+#~ msgstr ""
+
+#~ msgid "Enter the login area title"
+#~ msgstr ""
+
+#~ msgid "Enter the login area sub title"
+#~ msgstr ""
+
+#~ msgid "Enter the login area description"
+#~ msgstr ""
+
+#~ msgid "Show Remember Password"
+#~ msgstr ""
+
+#~ msgid "Show Forgot Password"
+#~ msgstr ""
+
+#~ msgid "Enter the login button text"
+#~ msgstr ""
+
+#~ msgid "Show Registration Area"
+#~ msgstr ""
+
+#~ msgid "Registration PopUp Section"
+#~ msgstr ""
+
+#~ msgid "In this section set all available Registration options."
+#~ msgstr ""
+
+#~ msgid "Enter the registration area title"
+#~ msgstr ""
+
+#~ msgid "Enter the registration area sub title"
+#~ msgstr ""
+
+#~ msgid "Enter the registration area description"
+#~ msgstr ""
+
+#~ msgid "Term & Condition"
+#~ msgstr ""
+
+#~ msgid "Enter the Term & condition text"
+#~ msgstr ""
+
+#~ msgid "Select Terms & Condition Page"
+#~ msgstr ""
+
+#~ msgid "Enter the registration button text"
+#~ msgstr ""
+
+#~ msgid "Tag"
+#~ msgstr ""
+
+#~ msgid "Unload Theme Tag Settings"
+#~ msgstr ""
+
+#~ msgid "Show or hide tag page header section"
+#~ msgstr ""
+
+#~ msgid "Templates Settings"
+#~ msgstr ""
+
+#~ msgid "Unload Theme Templates Settings"
+#~ msgstr ""
+
+#~ msgid "Typography"
+#~ msgstr ""
+
+#~ msgid "Unload Theme Typography Settings"
+#~ msgstr ""
+
+#~ msgid "About Company"
+#~ msgstr ""
+
+#~ msgid "Image:"
+#~ msgstr ""
+
+#~ msgid "Upload side Image for this section."
+#~ msgstr ""
+
+#~ msgid "Title:"
+#~ msgstr ""
+
+#~ msgid "Enter the title for this section."
+#~ msgstr ""
+
+#~ msgid "Sub Title:"
+#~ msgstr ""
+
+#~ msgid "Enter the sub title for this section."
+#~ msgstr ""
+
+#~ msgid "Description:"
+#~ msgstr ""
+
+#~ msgid "Enter the description for this section."
+#~ msgstr ""
+
+#~ msgid "1st Fun Fact title:"
+#~ msgstr ""
+
+#~ msgid "Enter the fun factor title."
+#~ msgstr ""
+
+#~ msgid "About Button"
+#~ msgstr ""
+
+#~ msgid "1st Fun Fact icon:"
+#~ msgstr ""
+
+#~ msgid "Select the icon from the library."
+#~ msgstr ""
+
+#~ msgid "1st Fun Fact Number:"
+#~ msgstr ""
+
+#~ msgid "Enter the fun factor number."
+#~ msgstr ""
+
+#~ msgid "2nd Fun Fact title:"
+#~ msgstr ""
+
+#~ msgid "2nd Fun Fact icon:"
+#~ msgstr ""
+
+#~ msgid "2nd Fun Fact Number:"
+#~ msgstr ""
+
+#~ msgid "Select Page:"
+#~ msgstr ""
+
+#~ msgid "Select the page that you want to link."
+#~ msgstr ""
+
+#~ msgid "Enter the title of the button."
+#~ msgstr ""
+
+#~ msgid "About Shipment"
+#~ msgstr ""
+
+#~ msgid "1st Shipment Name:"
+#~ msgstr ""
+
+#~ msgid "1st Shipment Icon"
+#~ msgstr ""
+
+#~ msgid "Select icon from library."
+#~ msgstr ""
+
+#~ msgid "2nd Shipment Name:"
+#~ msgstr ""
+
+#~ msgid "2nd Shipment Icon"
+#~ msgstr ""
+
+#~ msgid "3rd Shipment Name:"
+#~ msgstr ""
+
+#~ msgid "3rd Shipment Icon"
+#~ msgstr ""
+
+#~ msgid "4th Shipment Name:"
+#~ msgstr ""
+
+#~ msgid "4th Shipment Icon"
+#~ msgstr ""
+
+#~ msgid "About With Features"
+#~ msgstr ""
+
+#~ msgid "BG Text:"
+#~ msgstr ""
+
+#~ msgid "Enter the background text for this section."
+#~ msgstr ""
+
+#~ msgid "Cargo Services:"
+#~ msgstr ""
+
+#~ msgid "Select services to show."
+#~ msgstr ""
+
+#~ msgid "View All"
+#~ msgstr ""
+
+#~ msgid "Button Text:"
+#~ msgstr ""
+
+#~ msgid "Enter the button text."
+#~ msgstr ""
+
+#~ msgid "Upload Image:"
+#~ msgstr ""
+
+#~ msgid "Upload Image for this section."
+#~ msgstr ""
+
+#~ msgid "Number of Posts"
+#~ msgstr ""
+
+#~ msgid "Enter the number of posts to show"
+#~ msgstr ""
+
+#~ msgid "Ascending"
+#~ msgstr ""
+
+#~ msgid "Descending"
+#~ msgstr ""
+
+#~ msgid "Select sorting order ascending or descending for posts listing"
+#~ msgstr ""
+
+#~ msgid "Order By"
+#~ msgstr ""
+
+#~ msgid "Random"
+#~ msgstr ""
+
+#~ msgid "Select order by method for posts listing"
+#~ msgstr ""
+
+#~ msgid "On Desktop"
+#~ msgstr ""
+
+#~ msgid "Buttons"
+#~ msgstr ""
+
+#~ msgid "Button link:"
+#~ msgstr ""
+
+#~ msgid "Enter the button link."
+#~ msgstr ""
+
+#~ msgid "Icon:"
+#~ msgstr ""
+
+#~ msgid "Squared with Blug BG"
+#~ msgstr ""
+
+#~ msgid "Squared with Dark BG"
+#~ msgstr ""
+
+#~ msgid "Squared with Mono BG"
+#~ msgstr ""
+
+#~ msgid "Squared with Dark Border"
+#~ msgstr ""
+
+#~ msgid "Squared with Mono Border"
+#~ msgstr ""
+
+#~ msgid "Fancy with Blug BG"
+#~ msgstr ""
+
+#~ msgid "Fancy with Dark BG"
+#~ msgstr ""
+
+#~ msgid "Fancy with Mono BG"
+#~ msgstr ""
+
+#~ msgid "Fancy with Gray BG"
+#~ msgstr ""
+
+#~ msgid "Fancy with Dark Border"
+#~ msgstr ""
+
+#~ msgid "Half Rounded with Blug BG"
+#~ msgstr ""
+
+#~ msgid "Half Rounded with Dark BG"
+#~ msgstr ""
+
+#~ msgid "Half Rounded with Mono BG"
+#~ msgstr ""
+
+#~ msgid "Half Rounded with Dark Border"
+#~ msgstr ""
+
+#~ msgid "Half Rounded with Mono Border"
+#~ msgstr ""
+
+#~ msgid "Rounded with Blug BG"
+#~ msgstr ""
+
+#~ msgid "Rounded with Dark BG"
+#~ msgstr ""
+
+#~ msgid "Rounded with Mono BG"
+#~ msgstr ""
+
+#~ msgid "Rounded with Dark Border"
+#~ msgstr ""
+
+#~ msgid "Rounded with Mono Border"
+#~ msgstr ""
+
+#~ msgid "Select style of this section"
+#~ msgstr ""
+
+#~ msgid "Small"
+#~ msgstr ""
+
+#~ msgid "Medium"
+#~ msgstr ""
+
+#~ msgid "Large"
+#~ msgstr ""
+
+#~ msgid "X Large"
+#~ msgstr ""
+
+#~ msgid "Select button size"
+#~ msgstr ""
+
+#~ msgid "CALL TO ACTION"
+#~ msgstr ""
+
+#~ msgid "Button Link:"
+#~ msgstr ""
+
+#~ msgid "Enter the Button link."
+#~ msgstr ""
+
+#~ msgid "Gray BG"
+#~ msgstr ""
+
+#~ msgid "Dark BG"
+#~ msgstr ""
+
+#~ msgid "Mono BG"
+#~ msgstr ""
+
+#~ msgid "White BG"
+#~ msgstr ""
+
+#~ msgid "Upload background image."
+#~ msgstr ""
+
+#~ msgid "Cargo Services Detailed"
+#~ msgstr ""
+
+#~ msgid "Company Events With Carousal"
+#~ msgstr ""
+
+#~ msgid "Company Projects"
+#~ msgstr ""
+
+#~ msgid "Customer Reviews In Carousal"
+#~ msgstr ""
+
+#~ msgid "Select Reviews:"
+#~ msgstr ""
+
+#~ msgid "Select reviews to show."
+#~ msgstr ""
+
+#~ msgid "CUSTOMER REVIEWS"
+#~ msgstr ""
+
+#~ msgid "Custom Page Links"
+#~ msgstr ""
+
+#~ msgid "Drop Cap"
+#~ msgstr ""
+
+#~ msgid "Drop Cap Word:"
+#~ msgstr ""
+
+#~ msgid "Enter the Drop Cap Word."
+#~ msgstr ""
+
+#~ msgid "Dark Border"
+#~ msgstr ""
+
+#~ msgid "Mono Border"
+#~ msgstr ""
+
+#~ msgid "Mono Background"
+#~ msgstr ""
+
+#~ msgid "Dark Background"
+#~ msgstr ""
+
+#~ msgid "Verticle Dark Border"
+#~ msgstr ""
+
+#~ msgid "Verticle Mono Border"
+#~ msgstr ""
+
+#~ msgid "Mono"
+#~ msgstr ""
+
+#~ msgid "Gray Parallax"
+#~ msgstr ""
+
+#~ msgid "Dark Parallax"
+#~ msgstr ""
+
+#~ msgid "Mono Parallax"
+#~ msgstr ""
+
+#~ msgid "White with Dark Border"
+#~ msgstr ""
+
+#~ msgid "Name:"
+#~ msgstr ""
+
+#~ msgid "Enter the feature name."
+#~ msgstr ""
+
+#~ msgid "Fixed Text Slider"
+#~ msgstr ""
+
+#~ msgid "Logo:"
+#~ msgstr ""
+
+#~ msgid "Upload Logo."
+#~ msgstr ""
+
+#~ msgid "Enter the title for slider."
+#~ msgstr ""
+
+#~ msgid "Enter the button text for slider."
+#~ msgstr ""
+
+#~ msgid "Slider Images:"
+#~ msgstr ""
+
+#~ msgid "Upload slider Images."
+#~ msgstr ""
+
+#~ msgid "Fun Fact"
+#~ msgstr ""
+
+#~ msgid "Fun Fact Block"
+#~ msgstr ""
+
+#~ msgid "Fun Fact title:"
+#~ msgstr ""
+
+#~ msgid "Fun Fact icon:"
+#~ msgstr ""
+
+#~ msgid "Fun Fact Number:"
+#~ msgstr ""
+
+#~ msgid "Gallery with Even Thumb"
+#~ msgstr ""
+
+#~ msgid "Upload Images"
+#~ msgstr ""
+
+#~ msgid "Upload images for this gallery style"
+#~ msgstr ""
+
+#~ msgid "Column"
+#~ msgstr ""
+
+#~ msgid "Horizontal Gallery"
+#~ msgstr ""
+
+#~ msgid "Horizontal Gallery Style 2"
+#~ msgstr ""
+
+#~ msgid "Isotope Gallery Uneven Thumb"
+#~ msgstr ""
+
+#~ msgid "Message Box Creative"
+#~ msgstr ""
+
+#~ msgid "Style:"
+#~ msgstr ""
+
+#~ msgid "Message Box Simple White"
+#~ msgstr ""
+
+#~ msgid "Message Box Gray BG"
+#~ msgstr ""
+
+#~ msgid "Message Box Dark BG"
+#~ msgstr ""
+
+#~ msgid "Message Box Coloured BG"
+#~ msgstr ""
+
+#~ msgid "Select the style of the message box."
+#~ msgstr ""
+
+#~ msgid "Icon"
+#~ msgstr ""
+
+#~ msgid "Enter the title."
+#~ msgstr ""
+
+#~ msgid "Message Box Fancy"
+#~ msgstr ""
+
+#~ msgid "Message Box Simple"
+#~ msgstr ""
+
+#~ msgid "News With Big Thumb"
+#~ msgstr ""
+
+#~ msgid "Select Categories"
+#~ msgstr ""
+
+#~ msgid "Choose posts categories for which posts you want to show"
+#~ msgstr ""
+
+#~ msgid "Columns"
+#~ msgstr ""
+
+#~ msgid "Select the column"
+#~ msgstr ""
+
+#~ msgid "Content Limit"
+#~ msgstr ""
+
+#~ msgid "Enter the number of show content words"
+#~ msgstr ""
+
+#~ msgid "Order Tracking"
+#~ msgstr ""
+
+#~ msgid "Enter the short description for this section."
+#~ msgstr ""
+
+#~ msgid "Proceed Now"
+#~ msgstr ""
+
+#~ msgid "Background Image:"
+#~ msgstr ""
+
+#~ msgid "Track a Shipment"
+#~ msgstr ""
+
+#~ msgid "Our Employee Toggle Style"
+#~ msgstr ""
+
+#~ msgid "Packages With Big Thumb"
+#~ msgstr ""
+
+#~ msgid "Pages Block"
+#~ msgstr ""
+
+#~ msgid "Title Link:"
+#~ msgstr ""
+
+#~ msgid "Enter the title link."
+#~ msgstr ""
+
+#~ msgid "Short Description:"
+#~ msgstr ""
+
+#~ msgid "Parallax Video"
+#~ msgstr ""
+
+#~ msgid "Vidoe Url:"
+#~ msgstr ""
+
+#~ msgid "Enter the Vimeo & Youtube video url."
+#~ msgstr ""
+
+#~ msgid "Pictorial Services"
+#~ msgstr ""
+
+#~ msgid "Select multiple services that you want to show"
+#~ msgstr ""
+
+#~ msgid "Price Table:"
+#~ msgstr ""
+
+#~ msgid "Select the price table."
+#~ msgstr ""
+
+#~ msgid "Style 1"
+#~ msgstr ""
+
+#~ msgid "Style 2"
+#~ msgstr ""
+
+#~ msgid "GET THIS PLAN"
+#~ msgstr ""
+
+#~ msgid "Progress Bars"
+#~ msgstr ""
+
+#~ msgid "Progress Bar Creative"
+#~ msgstr ""
+
+#~ msgid "Progress Bar Multi Coloured"
+#~ msgstr ""
+
+#~ msgid "Progress Bar Verticle"
+#~ msgstr ""
+
+#~ msgid "Progress Bar Gray"
+#~ msgstr ""
+
+#~ msgid "Progress Bar Mono Coloured"
+#~ msgstr ""
+
+#~ msgid "Progress Bar Mono Coloured 2"
+#~ msgstr ""
+
+#~ msgid "Select the style of the progress_bars."
+#~ msgstr ""
+
+#~ msgid "Progress Bar Block"
+#~ msgstr ""
+
+#~ msgid "Number:"
+#~ msgstr ""
+
+#~ msgid "Enter the number of this section."
+#~ msgstr ""
+
+#~ msgid "Title Icon"
+#~ msgstr ""
+
+#~ msgid "Receiving Email:"
+#~ msgstr ""
+
+#~ msgid "Enter the email address to get all quotes."
+#~ msgstr ""
+
+#~ msgid "Over Laping"
+#~ msgstr ""
+
+#~ msgid "Select Date From"
+#~ msgstr ""
+
+#~ msgid "Select Date To"
+#~ msgstr ""
+
+#~ msgid "Message"
+#~ msgstr ""
+
+#~ msgid "Shipment Calculator"
+#~ msgstr ""
+
+#~ msgid "Receiving Mail ID:"
+#~ msgstr ""
+
+#~ msgid "Enter the email id that you want to receive email\\'s fromt this form."
+#~ msgstr ""
+
+#~ msgid "Shipment Guide"
+#~ msgstr ""
+
+#~ msgid "Background Text:"
+#~ msgstr ""
+
+#~ msgid "Enter the background text."
+#~ msgstr ""
+
+#~ msgid "Shipment Services"
+#~ msgstr ""
+
+#~ msgid "Servie"
+#~ msgstr ""
+
+#~ msgid "Select the service."
+#~ msgstr ""
+
+#~ msgid "Enter the subtitle."
+#~ msgstr ""
+
+#~ msgid "Enter the one line desctiption."
+#~ msgstr ""
+
+#~ msgid "Simple Gallery"
+#~ msgstr ""
+
+#~ msgid "Simple Services"
+#~ msgstr ""
+
+#~ msgid "Simple Services 2"
+#~ msgstr ""
+
+#~ msgid "Social Media"
+#~ msgstr ""
+
+#~ msgid "Social Square Gray"
+#~ msgstr ""
+
+#~ msgid "Social Square Dark"
+#~ msgstr ""
+
+#~ msgid "Social Square Dark Border"
+#~ msgstr ""
+
+#~ msgid "Social Square Mono BG"
+#~ msgstr ""
+
+#~ msgid "Social Square Colored Border"
+#~ msgstr ""
+
+#~ msgid "Social Square Colored BG"
+#~ msgstr ""
+
+#~ msgid "Social Circular Gray"
+#~ msgstr ""
+
+#~ msgid "Social Circular Dark"
+#~ msgstr ""
+
+#~ msgid "Social Circular Dark Border"
+#~ msgstr ""
+
+#~ msgid "Social Circular Mono BG"
+#~ msgstr ""
+
+#~ msgid "Social Circular Colored Border"
+#~ msgstr ""
+
+#~ msgid "Social Circular Colored BG"
+#~ msgstr ""
+
+#~ msgid "Social Leaf Gray"
+#~ msgstr ""
+
+#~ msgid "Social Leaf Dark"
+#~ msgstr ""
+
+#~ msgid "Social Leaf Dark Border"
+#~ msgstr ""
+
+#~ msgid "Social Leaf Mono BG"
+#~ msgstr ""
+
+#~ msgid "Social Leaf Colored Border"
+#~ msgstr ""
+
+#~ msgid "Social Leaf Colored BG"
+#~ msgstr ""
+
+#~ msgid "Select the style of the social media."
+#~ msgstr ""
+
+#~ msgid "Facebook:"
+#~ msgstr ""
+
+#~ msgid "Enter facebook link."
+#~ msgstr ""
+
+#~ msgid "Google Plus:"
+#~ msgstr ""
+
+#~ msgid "Enter google plus link."
+#~ msgstr ""
+
+#~ msgid "Twitter:"
+#~ msgstr ""
+
+#~ msgid "Enter twitter link."
+#~ msgstr ""
+
+#~ msgid "Pinterest:"
+#~ msgstr ""
+
+#~ msgid "Enter pinterest link."
+#~ msgstr ""
+
+#~ msgid "Linkedin:"
+#~ msgstr ""
+
+#~ msgid "Enter linkedin link."
+#~ msgstr ""
+
+#~ msgid "Dribbble:"
+#~ msgstr ""
+
+#~ msgid "Enter dribbble link."
+#~ msgstr ""
+
+#~ msgid "Statistics"
+#~ msgstr ""
+
+#~ msgid "Gray"
+#~ msgstr ""
+
+#~ msgid "Simple"
+#~ msgstr ""
+
+#~ msgid "Fancy"
+#~ msgstr ""
+
+#~ msgid "Select the style of the statistics."
+#~ msgstr ""
+
+#~ msgid "Parrallax Image:"
+#~ msgstr ""
+
+#~ msgid "Upload image for this style."
+#~ msgstr ""
+
+#~ msgid "Statistics Block"
+#~ msgstr ""
+
+#~ msgid "Enter the title statistics."
+#~ msgstr ""
+
+#~ msgid "Enter the statistics number."
+#~ msgstr ""
+
+#~ msgid "Company Suponser Carousal"
+#~ msgstr ""
+
+#~ msgid "Images"
+#~ msgstr ""
+
+#~ msgid "Upload images"
+#~ msgstr ""
+
+#~ msgid "Tabed Carousal Gallery"
+#~ msgstr ""
+
+#~ msgid "Tabs"
+#~ msgstr ""
+
+#~ msgid "Tabs With Coloured Buttons In Center"
+#~ msgstr ""
+
+#~ msgid "Tabs With Buttons On Left Hand"
+#~ msgstr ""
+
+#~ msgid "Tabs With Creative Style"
+#~ msgstr ""
+
+#~ msgid "Tabs Verticle With White BG"
+#~ msgstr ""
+
+#~ msgid "Tabs Verticle With Gray BG"
+#~ msgstr ""
+
+#~ msgid "Tabs Verticle Dark Coloured"
+#~ msgstr ""
+
+#~ msgid "Select the style of the tabs."
+#~ msgstr ""
+
+#~ msgid "Tabs Block"
+#~ msgstr ""
+
+#~ msgid "Content:"
+#~ msgstr ""
+
+#~ msgid "Enter the Content."
+#~ msgstr ""
+
+#~ msgid "Toggles"
+#~ msgstr ""
+
+#~ msgid "Dark & Gray Style 1"
+#~ msgstr ""
+
+#~ msgid "Dark & Gray Style 2"
+#~ msgstr ""
+
+#~ msgid "Coloured & Light Gray Strip"
+#~ msgstr ""
+
+#~ msgid "Coloured & Dark Gray Strip"
+#~ msgstr ""
+
+#~ msgid "Simple White With Coloured Buttons"
+#~ msgstr ""
+
+#~ msgid "Simple White With Coloured Border"
+#~ msgstr ""
+
+#~ msgid "Fully Coloured with dark Strip"
+#~ msgstr ""
+
+#~ msgid "Fully Coloured with Gray Strip"
+#~ msgstr ""
+
+#~ msgid "Select the style for this toggle."
+#~ msgstr ""
+
+#~ msgid "Toggles Block"
+#~ msgstr ""
+
+#~ msgid "Horizontal Tracking bar"
+#~ msgstr ""
+
+#~ msgid "This widget is used to show about unload."
+#~ msgstr ""
+
+#~ msgid "Footer About Unload"
+#~ msgstr ""
+
+#~ msgid "True"
+#~ msgstr ""
+
+#~ msgid "False"
+#~ msgstr ""
+
+#~ msgid "Logo Url:"
+#~ msgstr ""
+
+#~ msgid "Social Icons:"
+#~ msgstr ""
+
+#~ msgid "This widget is used to show gallery images."
+#~ msgstr ""
+
+#~ msgid "Gallery Unload"
+#~ msgstr ""
+
+#~ msgid "Uniquely Pursue"
+#~ msgstr ""
+
+#~ msgid "Images:"
+#~ msgstr ""
+
+#~ msgid "Upload Image"
+#~ msgstr ""
+
+#~ msgid "This widget is used to show newsletter."
+#~ msgstr ""
+
+#~ msgid "Footer Newsletter Unload"
+#~ msgstr ""
+
+#~ msgid "NEWSLETTER SUBSCRIBE"
+#~ msgstr ""
+
+#~ msgid "SUBMIT NOW"
+#~ msgstr ""
+
+#~ msgid "Enter Your Email Address"
+#~ msgstr ""
+
+#~ msgid "Please fill MailChimp API Key and list id in theme options."
+#~ msgstr ""
+
+#~ msgid "This widget is used to show blog posts."
+#~ msgstr ""
+
+#~ msgid "Recent News Unload"
+#~ msgstr ""
+
+#~ msgid "Recent News"
+#~ msgstr ""
+
+#~ msgid "Number of Posts:"
+#~ msgstr ""
+
+#~ msgid "Select Categories:"
+#~ msgstr ""
+
+#~ msgid "This widget is used to show recent posts."
+#~ msgstr ""
+
+#~ msgid "Recent Posts Unload"
+#~ msgstr ""
+
+#~ msgid "Recent Posts"
+#~ msgstr ""
+
+#~ msgid "By"
+#~ msgstr ""
+
+#~ msgid "This widget is used to show vidoe popup."
+#~ msgstr ""
+
+#~ msgid "Video PopUp Unload"
+#~ msgstr ""
+
+#~ msgid "CARGO VIDEO"
+#~ msgstr ""
+
+#~ msgid "Video Title:"
+#~ msgstr ""
+
+#~ msgid "Video Url (vimeo, youtube):"
+#~ msgstr ""

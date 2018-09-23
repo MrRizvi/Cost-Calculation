@@ -1,0 +1,1 @@
+<div class="widget-data">    <form action="<?php echo esc_url(home_url('/')); ?>" method="get">        <input type="text" placeholder="<?php esc_attr_e('SEARCH', 'unload'); ?>" name="s"               value="<?php echo get_search_query(); ?>">        <button type="submit"><i class="fa fa-search"></i></button>    </form></div>
